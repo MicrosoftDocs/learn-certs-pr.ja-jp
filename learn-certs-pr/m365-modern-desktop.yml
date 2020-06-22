@@ -2,17 +2,20 @@
 title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
+  description: 'Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。'
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
 subTitle: Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
 levels:
 - intermediate
 skills:
-- Windows 展開
-- デバイスとデータを管理する
-- 接続の構成
+- Windows の展開
+- デバイスとデータの管理
+- 接続性の構成
 - Windows の維持
 - オペレーティングシステムの展開と更新
 - ポリシーとプロファイルの管理
@@ -25,35 +28,33 @@ products:
 - m365
 - windows
 courses:
-- uid: course.md-100t01
-- uid: course.md-100t02
-- uid: course.md-100t03
-- uid: course.md-100t04
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-100t00
+- uid: course.md-101t00
 paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
 - uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUD
 exams:
 - uid: exam.md-100
 - uid: exam.md-101
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Modern Desktop Administrator Associate。'
+  description: 'Microsoft Certified: Modern Desktop Administrator Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

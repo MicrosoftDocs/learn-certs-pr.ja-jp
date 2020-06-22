@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Excel 2007'
+metadata:
+  title: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+  description: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+uid: exam.77-602
+displayName: 77-602
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、Microsoft Office Excel 2007 におけるビジネス成果物作成の 6 か月から 1 年に相当する実務経験を有しており、Office Excel の以前のバージョンの経験を有している可能性のある方です。これらの受験者は、データの作成と操作、データとコンテンツの書式設定、数式の作成と変更、データの視覚的提示、およびデータの共同作業と保護において特に実力があり優れています。
+subTitle: この試験の受験者は、Microsoft Office Excel 2007 におけるビジネス成果物作成の 6 か月から 1 年に相当する実務経験を有しており、Office Excel の以前のバージョンの経験を有している可能性のある方です。これらの受験者は、データの作成と操作、データとコンテンツの書式設定、数式の作成と変更、データの視覚的提示、およびデータの共同作業と保護において特に実力があり優れています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57x
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-602&examname=MOS:%20Using%20Microsoft%20Office%20Excel%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-602
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- データを作成および操作する
+- データとコンテンツの書式設定をする
+- 数式を作成および変更する
+- データを視覚的に示す
+- データのコラボレーションと保護
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

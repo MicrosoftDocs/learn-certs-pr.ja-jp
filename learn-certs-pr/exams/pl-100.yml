@@ -1,0 +1,97 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform App Maker (beta)'
+metadata:
+  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+uid: exam.pl-100
+displayName: PL-100
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  
+  アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、プロセス分析などの主要なテクニカルビジネス アナリスト タスクに精通しています。<br/><br/>
+
+  アプリ メーカーは、ビジネス プロセスを作成して適用し、情報のデジタル コレクションを構築し、繰り返し可能なタスクの効率を向上させ、ビジネス プロセスを自動化します。
+
+  アプリ メーカーは、Power Platform のメーカー ツールを使用してビジネス上の問題を解決します。Visual Basic for Applications、Excel ピボット テーブル、チーム、およびその他のツールの経験がある場合があります。データ モデル、ユーザー インターフェイス、プロセスについての基本的な知識が必要です。アプリ メーカーは、利用可能なツールの機能と制限を認識しており、それらを適用する方法を理解しています。
+
+  アプリ メーカーは自主的で、ソリューション中心です。彼らは正式な IT トレーニングは受けていないかもしれませんが、テクノロジを使用して個人的な成長の考え方でビジネスの問題を解決することに慣れています。彼らは運用上の必要性を理解し、望ましい結果のビジョンを持っています。彼らは段階的かつ反復的な戦略で問題に取り組みます。  
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; 本試験は、2020年7月前後に受験できます。</div>
+subTitle: 'この試験は 2020 年 7 月頃に利用可能になります。この試験では、ソリューションの設計、ソリューションの作成、データの分析、ソリューションの実装および管理などの技術的タスクを遂行する能力を評価します。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+locales:
+- en
+levels:
+- intermediate
+skills:
+- ソリューションを設計する (10-15%)
+- ソリューションを作成します(50-55%)
+- データを分析し (5-10%)
+- ソリューションの実装と管理 (15-20%)
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- functional-consultant
+- maker
+- technology-manager
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-app-maker
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md
+

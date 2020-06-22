@@ -6,18 +6,20 @@ metadata:
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 subTitle: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 levels:
 - intermediate
 skills:
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。」'
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - データ記憶域ソリューションの実装
-- データ処理を管理および開発する
-- データ ソリューションの監視、最適化
-- Azure データ記憶域ソリューションを設計する
-- データプロセスソリューションを設計する
-- データ セキュリティおよびコンプライアンスを設計する
+- データ処理法の管理と開発
+- データ ソリューションの監視および最適化
+- Azure データソリューションのデザイン
+- データ処理ソリューションのデザイン
+- データ セキュリティとコンプライアンスの設計
 roles:
 - data-engineer
 type: role-based
@@ -49,6 +51,9 @@ exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -64,3 +69,4 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

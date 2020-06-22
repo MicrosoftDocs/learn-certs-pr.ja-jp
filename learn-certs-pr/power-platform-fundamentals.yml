@@ -1,21 +1,24 @@
 ### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Automate による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Automate による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
-subTitle: ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Automate による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
+subTitle: ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
 levels:
 - beginner
 skills:
-- Platform のビジネス価値を理解する
-- Power Platform のコアコンポーネントを理解する
-- Power BI のビジネス価値を実証する
-- Power Apps のビジネス価値を実証する
-- Power Automate のビジネス上の価値を示す
+- Power Platform のビジネス価値について説明する
+- Power Platform のコア コンポーネントを特定する
+- Power BI のビジネス価値について説明する
+- Power Apps のビジネス価値について説明する
+- Power Automate のビジネス価値について説明する
+- Power Virtual Agents のビジネス価値を実証
 roles:
 - business-user
 - functional-consultant
@@ -48,3 +51,4 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

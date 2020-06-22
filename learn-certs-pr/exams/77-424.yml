@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Access 2013
+metadata:
+  title: 'Exam 77-424: Access 2013'
+  description: 'Exam 77-424: Access 2013'
+uid: exam.77-424
+displayName: 77-424
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、Access 2013 環境に関する基礎知識を持ち、独力でタスクを完了できる方を対象としています。対象者は Access 2013 の主な機能の正しい使い方を理解しており、デモンストレーションを実行できる必要があります。
+subTitle: この試験の受験者は、Access 2013 環境に関する基礎知識を持ち、独力でタスクを完了できる方を対象としています。対象者は Access 2013 の主な機能の正しい使い方を理解しており、デモンストレーションを実行できる必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJp
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-424&examname=Access%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-424
+locales:
+- en
+- zh-cn
+- zh-tw
+- es
+- ja
+- ko
+- nl
+levels:
+- beginner
+skills:
+- データベースの作成と管理(20-25%)
+- 表の作成(25-30%)
+- クエリの作成(15-20%)
+- フォームの作成(15-20%)
+- レポートの作成(15-20%)
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

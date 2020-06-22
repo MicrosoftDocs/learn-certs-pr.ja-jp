@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Access 2010
+metadata:
+  title: 'Exam 77-885: Access 2010'
+  description: 'Exam 77-885: Access 2010'
+uid: exam.77-885
+displayName: 77-885
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  一般的な受験者は、基本的な Access データベースを作成または管理する必要があるユーザー サポートの専門家、トレーナー、教師、教授、データベース ユーザー、またはデータベース作成者を対象としています。ユーザーは、テーブル、クエリ、フォーム、レポートなどの基本的なデータベース オブジェクトの機能を作成、変更、および拡張できます。ユーザーは、データベース エンティティ間の基本的な関係を構築および変更したり、基本的な Access 機能および使用法について他のユーザーに指示したりすることもできます。Access 2010 ユーザーは通常、オブジェクトの作成、変更、およびパーソナライズに効果的です。受験者はデータベース プロジェクトに独自に取り組むことができ、データベースに関する他者からの質問に回答することができます。受験者は、単純な Access データベースを作成または変更し、テンプレートを使用して基本的なオブジェクトを作成する方法を知っている必要があります。
+subTitle: 一般的な受験者は、基本的な Access データベースを作成または管理する必要があるユーザー サポートの専門家、トレーナー、教師、教授、データベース ユーザー、またはデータベース作成者を対象としています。ユーザーは、テーブル、クエリ、フォーム、レポートなどの基本的なデータベース オブジェクトの機能を作成、変更、および拡張できます。ユーザーは、データベース エンティティ間の基本的な関係を構築および変更したり、基本的な Access 機能および使用法について他のユーザーに指示したりすることもできます。Access 2010 ユーザーは通常、オブジェクトの作成、変更、およびパーソナライズに効果的です。受験者はデータベース プロジェクトに独自に取り組むことができ、データベースに関する他者からの質問に回答することができます。受験者は、単純な Access データベースを作成または変更し、テンプレートを使用して基本的なオブジェクトを作成する方法を知っている必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- Access 環境を管理する
+- 表の作成
+- フォームを構築する
+- クエリを作成および管理する
+- レポートを設計する
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

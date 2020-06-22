@@ -5,15 +5,28 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: この認定資格を取得した個人は、約 150 時間の指導と製品の実務経験があり、業界のアソシエイト レベルでの能力が証明されており、ジョブマーケットに参入する準備ができています。PowerPoint の主要な機能が正しく適用されていることを示し、タスクを個別に完了することができます。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験は、プレゼンテーションの管理と作成、シェイプとスライドの挿入とフォーマット、スライド内容の作成、トランジションとアニメーションの適用および複数のプレゼンテーションの管理などの能力をカバーしています。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。受験者は、PowerPoint の主要な機能の正しい適用を実証し、タスクを個別に完了することが期待されます。
 subTitle: この試験では、プレゼンテーションの管理と作成、シェイプとスライドの挿入とフォーマット、スライド内容の作成、トランジションとアニメーションの適用および複数のプレゼンテーションの管理など、プレゼンテーションやスライドショーを作成、編集、強化する能力を評価します。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
@@ -32,14 +45,15 @@ relatedCertifications:
     uid: certification.mos-powerpoint-2019
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

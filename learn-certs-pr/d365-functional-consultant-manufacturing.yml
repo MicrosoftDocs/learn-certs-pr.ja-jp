@@ -2,20 +2,24 @@
 title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
+  description: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。'
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
-subTitle: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
+subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。'
 levels:
 - intermediate
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - 共通の機能と実装ツールを使用する
-- セキュリティ、プロセス、とオプションを構成する
+- セキュリティ、プロセス、およびオプションを構成する
 - データ移行を実行する
 - ソリューションの検証とサポート
 - 製造のセットアップと構成
-- 生産とリーン注文の作成と管理
+- 生産およびリーン注文の作成と管理
 - 生産バッチ注文の作成、処理、管理
 roles:
 - functional-consultant
@@ -24,12 +28,8 @@ products:
 - dynamics
 - dynamics-finance-operations
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-320t01
-- uid: course.mb-320t02
-- uid: course.mb-320t03
+- uid: course.mb-300t00
+- uid: course.mb-320t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -46,20 +46,21 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
+  description: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

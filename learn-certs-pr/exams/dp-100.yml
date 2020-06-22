@@ -8,7 +8,7 @@ displayName: DP-100
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月22日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 22 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   Azure データ科学者は、データサイエンスと機械学習に関する知識を活用して、 Azure に機械学習ワークロードを実装して実行します。特に、 Azure Machine Learning Service を使用します。これには、 Azure 上のデータサイエンスワークロードに適した作業環境の計画と作成、データ実験の実行と予測モデルのトレーニング、モデルの管理と最適化、機械学習モデルの生産への展開が含まれます。
@@ -24,9 +24,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年5月22日に更新されます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
-- Azure Machine Learning ワークスペースの設定(30-35%)
-- 実験を実行し、モデルを訓練します(25-30%)
+- この試験の内容は、2020 年 5 月 22 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- Azure Machine Learning ワークスペースの設定(30～35%)
+- 実験を実行し、モデルを訓練します(25〜30%)
 - モデルを最適化して管理します (20-25%)
 - 配信可能性を展開して維持します(20-25%)
 roles:
@@ -45,7 +45,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

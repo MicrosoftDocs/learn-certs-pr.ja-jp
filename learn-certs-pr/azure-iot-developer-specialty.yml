@@ -2,21 +2,26 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: IoT 開発者は、データ分析、データプロセス、データ処理、データ ストーレージ オプション、および PaaS（Platform-as a Service）オプションなどを含めて、 IoT ソリューションを形成する Azure サービスの実装方法について十分に理解していることを証明します。IoT 開発者は、 IoT ソリューションのコード部分において Azure IoT サービス構成の設定を認識できる必要があります。
+  description: Azure IoT 開発者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発します。
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
-  IoT 開発者は、データ分析、データプロセス、データ処理、データ ストーレージ オプション、および PaaS（Platform-as a Service）オプションなどを含めて、 IoT ソリューションを形成する Azure サービスの実装方法について十分に理解していることを証明します。IoT 開発者は、 IoT ソリューションのコード部分において Azure IoT サービス構成の設定を認識できる必要があります。
-subTitle: IoT 開発者は、データ分析、データプロセス、データ処理、データ ストーレージ オプション、および PaaS（Platform-as a Service）オプションなどを含めて、 IoT ソリューションを形成する Azure サービスの実装方法について十分に理解していることを証明します。IoT 開発者は、 IoT ソリューションのコード部分において Azure IoT サービス構成の設定を認識できる必要があります。
+  Azure IoT Developer Specialty 認定資格の受験者は、Azure IoT ソリューションのクラウドおよびエッジ コンポーネントの開発に関する専門知識を持っている必要があります。
+
+  このロールの責任には、クラウド サービスやその他のツールを使用したデバイスのライフサイクル (セットアップ、構成、メンテナンス) の管理が含まれます。デバイス トポロジ、接続、デバッグ、セキュリティなどの Azure IoT ソリューションの設計、および IoT 関連のデータ パイプラインを管理、監視、変換するソリューションを実装します。また、Azure IoT Edge コンポーネントをデプロイし、エッジでデバイス ネットワークを構成します。
+
+  IoT 開発者は、データエンジニアやその他の関係者と協力して、ビジネス統合を成功に導きます。
+
+  この認定資格の受験者は、データ ストレージ オプション、データ分析、データ処理、サービスとしてのプラットフォーム オプションなど、IoT ソリューションを形成する Azure サービスの実装経験が必要です。このロールでは、IoT ソリューションのコード部分内で Azure IoT サービス構成設定を認識し、C#、ノード、C、Python など、Azure がサポートする少なくとも 1 つの言語で特定の IoT コーディング タスクを実行できる能力も求められます。
+subTitle: Azure IoT 開発者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発します。
 levels:
 - intermediate
 skills:
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
-- IoT ソリューション インフラストラクチャを実装します
+- IoT ソリューション インフラストラクチャの実装
 - デバイスのプロビジョニングと管理を行います
-- Edge を実装します
+- Edge の実装
 - データのプロセスおよび管理
 - IoT ソリューションの監視、トラブルシューティングおよび最適化
 - セキュリティの実装
@@ -38,10 +43,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1
 exams:
 - uid: exam.az-220
 resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure IoT Developer Specialty 認定資格を取得する手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

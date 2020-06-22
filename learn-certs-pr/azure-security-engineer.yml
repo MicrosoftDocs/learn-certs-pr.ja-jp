@@ -2,18 +2,27 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
+  description: 'Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。'
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Azure Security Engineer 認定資格の受験者には、セキュリティ制御と脅威保護の実装、ID とアクセスの管理、エンドツーエンド インフラストラクチャの一部としてのクラウド環境とハイブリッド環境でのデータ、アプリケーション、ネットワークの保護に関する専門知識が必要です。
+
+  このロールの責任には、セキュリティ体制の維持、さまざまなセキュリティ ツールの使用による脆弱性の特定と修正、脅威保護の実装、セキュリティ インシデントのエスカレーションへの対応が含まれます。
+
+  Azure Security Engineer は、多くの場合、エンドツーエンド インフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に専念する大規模なチームの一部として機能します。
+
+  この認定資格の受験者は、スクリプト作成と自動化に優れたスキルを持ち、ネットワーキング、仮想化、およびクラウドの N 層アーキテクチャを深く理解し、Azure のクラウド機能と製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要があります。
 subTitle: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
 levels:
 - intermediate
 skills:
-- アイデンティティとアクセスを管理する
-- プラットフォーム保護を実装する
-- セキュリティ運用の管理をする
-- データとアプリケーションの安全を確保する
+- IDとアクセスの管理
+- プラットフォーム保護の実装
+- セキュリティ運用の管理
+- データおよびアプリケーションの保護
 roles:
 - security-engineer
 type: role-based
@@ -37,18 +46,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-500
 resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps Solutions
+title: Designing and Implementing Microsoft DevOps Solutions
 metadata:
-  title: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
-  description: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
@@ -12,12 +12,12 @@ summary: |-
 
   この試験の受験者は、エンドユーザーニーズとビジネス目的に合うように、継続的に価値ある製品やサービスを提供するために人々やプロセスやテクノロジを結びつけるDevOpsプロフェッショナルです。プラクティス、コミュニケーションとコラボレーションの改善、自動化の作成によるDevOpsプロフェッショナルストリームラインの配信彼らは、継続的な統合、テスト、配信、および監視とフィードバックを可能とするための、アプリケーションコードとインフラストラクチャの戦略を設計し実装します。
 
-  受験者はAgileプラクティスに卓越している必要があります。彼らはAzure 管理とAzure開発の両方に通じており以下の領域の少なくとも１つのエキスパートである必要があります。Azure DevOps プロフェッショナルはAzureテクノロジを使用してのバージョン管理、コンプライアンス、コードとしてのインフラストラクチャ、設定管理、ビルド、リリース、テストを設計し実装できなければなりません。
+  受験生はAgileプラクティスに卓越している必要があります。彼らはAzure 管理とAzure開発の両方に通じており以下の領域の少なくとも１つのエキスパートである必要があります。Azure DevOps プロフェッショナルはAzureテクノロジを使用してのバージョン管理、コンプライアンス、コードとしてのインフラストラクチャ、設定管理、ビルド、リリース、テストを設計し実装できなければなりません。
 subTitle: 'この試験では、DevOps 戦略を設計し、以下を実装する能力を評価します: DevOps 開発プロセス、依存関係管理、アプリケーションインフラストラクチャ、継続的な統合、配信、フィードバック。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -27,11 +27,11 @@ levels:
 - advanced
 skills:
 - 本試験の内容は、2020年6月15日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- DevOpsストラテジーのデザイン (20-25%)
-- DevOps開発プロセスの実装 (20-25%)
+- DevOps 戦略を設計する(20-25%)
+- DevOps 開発プロセスを実装する(20-25%)
 - 継続的インテグレーションの実装 (10-15%)
 - 継続的デリバリーの実装 (10-15%)
-- 依存性管理の実装 (5-10%)
+- 依存性管理の実装 (5 - 10%)
 - アプリケーションインフラストラクチャの実装 (15-20%)
 - 継続的フィードバックの実装 (10-15%)
 roles:
@@ -49,24 +49,18 @@ paths:
 - uid: learn.azdo.automate-deployments-azure-devops
 - uid: learn.azdo.capture-feedback-monitoring
 courses:
-- uid: course.az-400t01
-- uid: course.az-400t02
-- uid: course.az-400t03
-- uid: course.az-400t04
-- uid: course.az-400t05
-- uid: course.az-400t06
-- uid: course.az-400t07
+- uid: course.az-400t00
 relatedCertifications:
 - related:
-    uid: certification.azure-devops
+    uid: certification.devops-engineer
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure DevOps Engineer Expert'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
+- title: 認証への道のり
+  description: DevOps Engineer Expert として認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

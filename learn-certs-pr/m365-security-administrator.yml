@@ -2,25 +2,26 @@
 title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Security Administrator Associate'
-  description: Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
+  description: 'Microsoft 365 Security Administrators は、365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。'
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
-subTitle: Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Microsoft 365 Security Administrators は、365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
+subTitle: Microsoft 365 Security Administrators は、365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
 levels:
 - intermediate
 skills:
 - IDとアクセスの実装と管理
 - 脅威からの保護を実装および管理する
 - 情報保護の実施と管理
-- Microsoft 365ガバナンスおよびコンプライアンス機能を管理する
+- Microsoft 365 のガバナンスおよびコンプライアンス機能を管理する
 roles:
 - administrator
 type: role-based
 products:
 - m365
-- azure-active-directory
-- office-365
 courses:
 - uid: course.ms-500t00
 paths:
@@ -33,20 +34,21 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Security Administrator Associate。'
+  description: 'Microsoft Certified: Security Administrator Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -8,7 +8,7 @@ displayName: MB-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月22日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 22 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験の受験者は、Microsoft Dynamics 365 の Finance and Operations アプリケーションで作業して、ビジネスの要件を満たすためのアプリケーションを実装および拡張する開発者です。受験生は、標準化されたアプリケーション コーディング パターン、拡張可能な機能、および外部統合を使用することで、完全に実現されたソリューションを提供します。
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年5月22日に更新されます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
+- この試験の内容は、2020 年 5 月 22 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - Architecture and Solution Design を計画する(10-15%)
 - Developer Tools を適用する(10-15%)
 - AOT 要素の設計および開発(20-25%)
@@ -64,7 +64,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -6,18 +6,22 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  この試験の受験生は、AICloudベースとハイブリッドAIソリューションの必須要件を分析し、最適なツールとテクノロジーを推奨し、スケーラビリティとパフォーマンス要件に合致するソリューションを実装します。
-  <br/>
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 20 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  </div>
 
-  受験者は、ソリューション アーキテクトからビジョンを翻訳し、データ科学者、データ エンジニア、IoT スペシャリスト、および AI 開発者と協力して、完全なエンドツーエンドのソリューションを構築します。受験者は、Microsoft Azure Cognitive Services と Azure Bot Service を使用する AI アプリとエージェントを設計および実装します。受験者は、オープン ソース テクノロジを使用するソリューションを推奨することができます。
+  この試験の受験者は、AI ソリューションの必須要件を分析し、最適なツールとテクノロジーを推奨し、スケーラビリティとパフォーマンス要件に合致するソリューションを実装します。
 
-  受験者は、Azure AI ポートフォリオを構成するコンポーネントと利用可能なデータ ストレージ オプションを理解しています。
+  受験生は、ソリューション アーキテクトからビジョンを翻訳し、データ科学者、データ エンジニア、IoT スペシャリスト、および AI 開発者と協力して、完全なエンドツーエンドのソリューションを構築します。受験生は、Microsoft Azure Cognitive Services と Azure Bot Service を使用する AI アプリとエージェントを設計および実装します。受験生は、オープン ソース テクノロジを使用するソリューションを推奨することができます。
 
-  受験者は、Cognitive Services、Azure ボット、Azure Search、および Azure のデータ ストレージを使用する AI ソリューションを実装します。受験者は、特定の要件を満たすためにカスタム API をいつ開発する必要があるかを理解しています。
+  受験生は、Azure AI ポートフォリオを構成するコンポーネントと利用可能なデータ ストレージ オプションを理解しています。
+
+  受験生は、Cognitive Services、Azure ボット、Azure Search、および Azure のデータ ストレージを使用する AI ソリューションを実装します。受験生は、特定の要件を満たすためにカスタム API をいつ開発する必要があるかを理解しています。
 subTitle: 'この試験では、ソリューションの要求の分析、ソリューションの設計、AIモデルのソリューションへの統合、ソリューションの展開および管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -26,8 +30,8 @@ locales:
 levels:
 - intermediate
 skills:
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
-- ソリューション要件の分析(25-30%)
+- この試験の内容は、2020 年 5 月 20 日に更新されました。以下の試験スキルの概要をダウンロード-して、これまでの変更点を確認してください。
+- ソリューションの要求を分析する(25-30%)
 - AIソリューションの設計 (40-45%)
 - AIソリューションの実装と監視 (25-30%)
 roles:
@@ -50,6 +54,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
+- title: 認証への道のり
+  description: Azure AI Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -65,9 +72,10 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

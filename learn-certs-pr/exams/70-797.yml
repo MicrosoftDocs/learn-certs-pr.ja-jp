@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Configuring Windows Devices (pilot)
+metadata:
+  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+uid: exam.70-797
+displayName: 70-797
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験では、強固な ID の作成、コンテンツの保護 (データ損失防止)、モバイル デバイス管理ポリシー、Hyper-V による仮想化、会社ポータルと Windows ストアによるアプリケーション管理について、受験者が基本的な知識とスキルを有していることを実証します。Windows 10 のセキュリティと、統合された Azure 機能に基づいて、受験者が評価されます。
+
+  この試験の受験者は、プロフェッショナルとしての経験に加えて、次の技術;すでに身に付けていることが求められます。
+
+  Windows デスクトップの管理、保守、およびトラブルシューティングの経験
+  Windows のネットワーク テクノロジの基本的な経験と理解
+  Active Directory と Microsoft Intune の入門レベルの知識
+
+  受験者は、Windows デバイス サポート技術者または Windows デバイス システム管理者としての実地経験から同等の知識とスキルを得ることで、この試験を受験するための前提条件を満たすことができます。
+subTitle: この試験では、強固な ID の作成、コンテンツの保護 (データ損失防止)、モバイル デバイス管理ポリシー、Hyper-V による仮想化、会社ポータルと Windows ストアによるアプリケーション管理について、受験者が基本的な知識とスキルを有していることを実証します。Windows 10 のセキュリティと、統合された Azure 機能に基づいて、受験者が評価されます。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+locales:
+- en
+levels:
+- beginner
+skills:
+- ID の管理(13%)
+- デスクトップとデバイスの展開の計画 (13%)
+- Microsoft Intune デバイス管理ソリューションの計画と実装 (11%)
+- ネットワークの構成 (11%)
+- 記憶域の構成 (10%)
+- データ アクセスと保護の管理 (11%)
+- リモート アクセスの管理 (10%)
+- アプリの管理 (11%)
+- 更新と回復の管理 (10%)
+roles:
+- administrator
+products:
+- windows
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

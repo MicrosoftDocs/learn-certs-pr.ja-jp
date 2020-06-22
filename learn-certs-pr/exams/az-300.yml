@@ -7,11 +7,17 @@ uid: exam.az-300
 displayName: AZ-300
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の新バージョン <a href="/learn/certifications/exams/az-303">AZ-303</a> は、 2020年6月29日前後に受験できるようになります。本試験は、2020 年 9 月 30 日前後に終了するまで、受験することができます。<br/><br/> さらに、本試験の内容は 2020 年 6 月 2 日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>本試験の新バージョン <a href="/learn/certifications/exams/az-303">AZ-303</a> は、 2020年6月29日前後に受験できるようになります。本試験は、2020 年 9 月 30 日前後に終了するまで、受験することができます。<br/><br/>以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
   </div>
 
-  この試験の受験者は、ビジネス上の要求をセキュアで拡張可能な信頼できるソリューションに置き換えて関係者へアドバイスを行う Azure ソリューションアーキテクトです。受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、災害リカバリ、データ管理、予算管理、ガバナンスを含む IT 操作の各種方面についての経験と知識を卓越して持っている必要があります。このロールには、各エリアがソリューション全体にどのように影響するかの判断の管理が求められます。受験生は Azure 管理、Azure 開発、DevOps の卓越性の内の少なくとも一つのドメインでのエキスパート レベルのスキルを持っている必要があります。
+  この試験の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。
+
+  Azure ソリューションアーキテクトの責任には、利害関係者に助言し、ビジネス要件を安全でスケーラブルで信頼性の高いクラウド ソリューションに変換することが含まれます。
+
+  Azure Solution Architect は、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します
+
+  この試験の受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ管理、予算編成、ガバナンスなど、IT 運用のさまざまな側面にわたる高度な経験と知識を持っている必要があります。このロールは各領域での決定がソリューション全体に与える影響を管理する必要があります。さらに、このロールには Azure ナレッジ ドメイン (管理、開発、DevOps) の少なくとも 1 つに習熟している必要があります。
 subTitle: 'この試験では、インフラストラクチャのデプロイと設定、負荷分散とセキュリティの実装、アプリの作成とデプロイ、認証とセキュアデータの実装、クラウド用とAzureストレージ用の開発、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
@@ -25,12 +31,12 @@ locales:
 levels:
 - advanced
 skills:
-- 本試験の新バージョン AZ-303 は、 2020年6月29日前後に受験できるようになります。本試験は、 2020年9月30日前後に終了するまで、受験することができます。さらに、本試験の内容は 2020 年 6 月 2 日に更新されます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
-- インフラのデプロイと設定(40-45%)
-- ワークロードとセキュリティの実装(25-30%)
-- アプリの作成とデプロイ(5-10%)
+- 本試験の新バージョン AZ-303 は、 2020年6月29日前後に受験できるようになります。本試験は、 2020年9月30日前後に終了するまで、受験することができます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- インフラのデプロイと設定 (40-45%)
+- ワークロードとセキュリティの実装 (25-30%)
+- アプリの作成とデプロイ (5-10%)
 - 認証とセキュアなデータの実装 (5-10%)
-- クラウド用およびAzure用ストレージの開発(15-20%)
+- クラウド用およびAzure用ストレージの開発 (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -78,13 +84,10 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure Solutions Architect Expert になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

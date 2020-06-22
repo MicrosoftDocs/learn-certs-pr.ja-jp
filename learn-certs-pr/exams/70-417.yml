@@ -1,0 +1,88 @@
+### YamlMime:Examination
+title: Upgrading Your Skills to MCSA Windows Server 2012
+metadata:
+  title: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+  description: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+uid: exam.70-417
+displayName: 70-417
+summary: |+
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、Windows Server 2012 コア インフラストラクチャ サービスの実装に必要なスキルと知識を確認したい IT プロフェッショナルを対象にしています。受験者は Windows Server 2008、Windows Server 2003、Windows Server 2000、または Windows XP の以下の認定資格を既に取得しています。
+  - MCSA&#58; Windows Server 2008
+  - MCITP&#58; Server Administrator on Windows Server 2008
+  - MCITP&#58; Enterprise Administrator on Windows Server 2008
+  - MCITP&#58; Virtualization Administrator on Windows Server 2008 R2
+  - MCITP&#58; Enterprise Messaging Administrator 2010
+  - MCITP&#58; Lync Server Administrator 2010
+  - MCITP&#58; SharePoint Administrator 2010
+  - MCITP&#58; Enterprise Desktop Administrator on Windows 7
+  - MCDST&#58; Windows XP
+  - MCSE&#58; Windows 2000
+  - MCSA Windows 2000
+  - MCSA&#58; Security on Windows 2000
+  - MCSA&#58; Security on Windows 2003
+  - MCSA&#58; Windows Server 2003
+  - MCSE&#58; Security on Windows 2000
+  - MCSE&#58; Security on Windows 2003
+  - MCSE&#58; Windows Server 2003
+  - MCSA&#58; Messaging on Windows Server 2000
+  - MCSA&#58; Messaging on Windows Server 2003
+  - MCSE&#58; Messaging on Windows Server 2000
+  - MCSE&#58; Messaging on Windows Server 2003
+
+  <div style='font-weight&#58; bold;'><br/>この試験は、Windows Server 2012 R2 および System Center 2012 R2 の最新のテクノロジ情報に対応するように改訂されています。より細かい情報については、試験の詳細についてのページのドキュメントを参照してください <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, および <a href='/learn/certifications/exams/70-412'>70-412</a>.</div>
+subTitle: 'この試験は、Windows Server 2012 コア インフラストラクチャ サービスの実装に必要なスキルと知識を確認したい IT プロフェッショナルを対象にしています。受験者は Windows Server 2008、Windows Server 2003、Windows Server 2000、または Windows XP の以下の認定資格を既に取得しています。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
+practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- サーバーのインストールと構成
+- サーバーの役割と機能の構成
+- Hyper-V を構成する
+- Active Directory のインストールと管理
+- サーバーの展開、管理、保守
+- ネットワーク サービスおよびアクセスの構成
+- ネットワーク ポリシー サーバー インフラストラクチャの構成
+- Active Directory の構成および管理
+- グループ ポリシーの構成および管理
+- 高可用性の構成および管理
+- ファイルと記憶域ソリューションの構成
+- ビジネス継続性および障害回復の実装
+- ネットワーク サービスの構成
+- アクセスおよび情報保護ソリューションの構成
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20417
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

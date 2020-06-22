@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
 subTitle: Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
@@ -32,13 +32,8 @@ products:
 - dynamics
 - dynamics-field-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
-- uid: course.mb-240t01
-- uid: course.mb-240t02
-- uid: course.mb-240t03
+- uid: course.mb-200t00
+- uid: course.mb-240t00
 paths:
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling
@@ -53,7 +48,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

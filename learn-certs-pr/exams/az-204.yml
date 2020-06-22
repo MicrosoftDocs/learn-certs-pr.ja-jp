@@ -1,23 +1,23 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月18日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 18 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
-  本試験の受験者は、要件定義と設計から、開発と展開、保守に至るまで、開発のすべての段階に参加するクラウド開発者です。受験者は、ソリューションの実装にあたって、クラウド DBA、クラウド管理者、およびクライアントと連携を取ります。
+  この試験の受験者は、Microsoft Azure でのクラウド アプリケーションとサービスの設計、構築、テスト、および保守に関する専門知識を持っている必要があります。
 
-  受験者は、 Azure SDK 、データ ストレージ オプション、データ接続、 API 、アプリの認証と承認、計算とコンテナの展開、デバッグ、パフォーマンスの調整、および監視に精通している必要があります。
+  Azure 開発者の責任には、要件の定義と設計から開発、デプロイ、メンテナンスに至るまで、クラウド開発のすべてのフェーズに参加することが含まれます。パフォーマンスの調整と監視。
   <br/>
 
-  受験者は、 1-2 年の専門能力開発の経験と Microsoft Azure の経験を持っている必要があります。受講者は、Azure 対応言語でプログラムできる必要があります。
+  Azure 開発者は、クラウド ソリューション アーキテクト、クラウド DBA、クラウド管理者、およびクライアントと提携して、ソリューションを実装します。
 
-  <div><br/><strong>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</strong></div>
+  この試験の受験者には、1〜2 年の専門的な開発経験と Microsoft Azure の経験が必要です。さらに、このロールには、Azure でサポートされている言語でのプログラミング能力と、Azure SDK、Azure PowerShell、Azure CLI、データ ストレージ オプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナのデプロイ、デバッグ、パフォーマンスの調整、および監視に関する能力が必要です。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。Azure 計算ソリューションの開発、Azure ストレージの開発、Azure セキュリティの実装、Azure ソリューションの監視、トラブルシューティング、最適化、Azureサービスとサードパーティ サービスの接続と利用。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
@@ -29,8 +29,8 @@ providers:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年5月18日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- Azure 計算ソリューションの開発(25-30%)
+- この試験の内容は、2020 年 5 月 18 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- Azure 計算ソリューションの開発 (25 ～ 30%)
 - Azure ストレージを開発 (10-15%)
 - Azure Security の実装 (15-20%)
 - Azure ソリューションの監視、トラブルシューティング、最適化 (10-15%)
@@ -58,7 +58,6 @@ products:
 - azure-monitor
 - azure-policy
 - azure-portal
-- azure-redis-cache
 - azure-resource-manager
 - azure-sdks
 - azure-service-bus
@@ -66,6 +65,9 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -80,13 +82,13 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure Developer Associate になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: 認証への道のり
+  description: Azure Developer Associate の認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -2,48 +2,43 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
+  description: 'Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。'
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
-subTitle: Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。
+subTitle: Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。
 levels:
 - intermediate
 skills:
-- 最新のメッセージング インフラストラクチャを管理する
-- メール フロー トポロジを管理する
-- 受信者とデバイスを管理する
-- ハイブリッド構成と移行を計画して実装する
-- メッセージング環境を保護する
-- 組織設定を管理する
+- 組織の設定およびリソースの管理
+- メール アーキテクチャの計画と管理
+- ハイブリッド設定と移行の計画と実装
+- メッセージング環境のセキュリティ強化
 roles:
 - administrator
 type: role-based
 products:
 - m365
-courses:
-- uid: course.ms-200t01
-- uid: course.ms-200t02
-- uid: course.ms-200t03
-- uid: course.ms-201t01
-- uid: course.ms-201t02
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 exams:
-- uid: exam.ms-200
-- uid: exam.ms-201
+- uid: exam.ms-203
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
-  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   Solution Architect は、完全なソリューション設計の統合性と万全の提供について責任を負います。アーキテクトは、事前販売および設計の期間中に重要なガイダンスを提供し、プロジェクト ライフサイクルの残りの期間を通じてコンサルティングを行い、実行期間全体において発生する問題に対処します。
 
   Solution Architect は、ビジネス ニーズと製品機能にまたがる幅広い知識と経験を持っている必要があります。Solution Architect は、開発者または機能コンサルタントとして、財務、製造、またはサプライチェーン管理のいずれかの職務において、幅広い機能および技術的な専門知識を持っている必要があります。さらに彼らは、 1 つ以上の顧客相手の業界で広範な分野の知識を持っています。
-
-  <div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</div>
 subTitle: 'この試験では、ソリューション要件の特定、ソリューション コンポーネントの設計、およびソリューション テストと管理戦略の定義などの技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -39,10 +37,13 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert になるための教材を探しましょう。'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Word 2010 Expert
+metadata:
+  title: 'Exam 77-887: Word 2010 Expert'
+  description: 'Exam 77-887: Word 2010 Expert'
+uid: exam.77-887
+displayName: 77-887
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  エキスパート レベルの Microsoft Word 2010 ユーザーは、特徴および機能レベルで Word 2010 ソフトウェアを熟練してかつ自信を持って使用できることが期待されます。エキスパート ユーザーは、Word 2010 の高度な機能を使用して、プロフェッショナル ドキュメントを強化し、公開用のドキュメントを作成し、グループ編集プロジェクトで効果的に共同作業を行います。エキスパート ユーザーは、Word のオプションを使用して、さまざまなニーズを満たし生産性を向上させるように環境をカスタマイズします。
+subTitle: エキスパート レベルの Microsoft Word 2010 ユーザーは、特徴および機能レベルで Word 2010 ソフトウェアを熟練してかつ自信を持って使用できることが期待されます。エキスパート ユーザーは、Word 2010 の高度な機能を使用して、プロフェッショナル ドキュメントを強化し、公開用のドキュメントを作成し、グループ編集プロジェクトで効果的に共同作業を行います。エキスパート ユーザーは、Word のオプションを使用して、さまざまなニーズを満たし生産性を向上させるように環境をカスタマイズします。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- ドキュメントの共有と管理 (15-20%)
+- 紺鉄の書式設定 (25-30%)
+- ドキュメントの追跡と参照 (20-25%)
+- 差し込み印刷操作の実行 (15-20%)
+- マクロとフォームの管理 (25-30%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

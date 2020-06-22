@@ -17,11 +17,11 @@ ms.author: micsullivan
 
 * 2020 年 6 月 30 日のコースウェアの廃止
 
-    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | コース番号 | バージョン | タイトル | 言語| 退職日 |
     | --- | --- | --- | --- | --- |
     | 2274 | C | Managing a Microsoft® Windows Server™ 2003 Environment | ロシア語  | 2020 年 6 月 30 日|
     | 2275 | C | Maintaining a Microsoft® Windows Server™ 2003 Environment | ロシア語  | 2020 年 6 月 30 日|
-    | 2276 | C | Implementing a Microsoft® Windows Server™ 2003 Network Infrastructure の実装：Network Hosts | 英語 | 2020 年 06 月 30 日 | 
+    | 2276 | C | Implementing a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Hosts | 英語 | 2020 年 06 月 30 日 | 
     | 2277 | C | Implementing, Managing, and Maintaining a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Services | 英語 | 2020 年 06 月 30 日 | 
     | 2310 | D | Developing Web Applications Using Microsoft® Visual Studio® 2008 SP1 | 英語 | 2020 年 06 月 30 日 | 
     | 2400 | C | Implementing and Managing Microsoft Exchange Server 2003 | 英語 | 2020 年 06 月 30 日 | 
@@ -136,6 +136,23 @@ ms.author: micsullivan
     | 22697-2 | B | Deploying and Managing Windows 10 | フランス語  | 2020 年 06 月 30 日 | 
     | 23697-1 | B | Installing and Configuring Windows 10 | 日本語 | 2020 年 06 月 30 日 | 
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | 日本語 | 2020 年 6 月 30 日|
+
+* 2020 年 5 月 29 日のコースウェアの廃止
+
+    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | --- | --- | --- | --- | --- |
+    | AZ-400T01 | A | Implementing DevOps Development Processes | 英語 | 2020 年 5 月 29 日|
+    | AZ-400T02 | A | Implementing Continuous Integration | 英語 | 2020 年 5 月 29 日|
+    | AZ-400T03 | A | Implementing Continuous Delivery | 英語 | 2020 年 5 月 29 日|
+    | AZ-400T04 | A | Implementing Dependency Management | 英語 | 2020 年 5 月 29 日|
+    | AZ-400T05 | A | Implementing Application Infrastructure | 英語 | 2020 年 5 月 29 日|
+    | AZ-400T06 | A | Implementing Continuous Feedback | 英語 | 2020 年 5 月 29 日|
+    | AZ-400T07 | A | Designing a DevOps Strategy | 英語 | 2020 年 5 月 29 日|
+    | MS-500T01 | A | Managing Microsoft 365 Identity and Access | 英語 | 2020 年 5 月 29 日|
+    | MS-500T02 | A | Implementing Microsoft 365 Threat Protection | 英語 | 2020 年 5 月 29 日|
+    | MS-500T03 | A | Implementing Microsoft 365 Information Protection | 英語 | 2020 年 5 月 29 日|
+    | MS-500T04 | A | Administering Microsoft 365 Built-in Compliance | 英語 | 2020 年 5 月 29 日|
+    | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | 英語 | 2020 年 5 月 29 日|
 
 * 2020 年 2 月 28 日のコースウェアの廃止
 
@@ -412,7 +429,7 @@ ms.author: micsullivan
 
     | コース番号| バージョン| タイトル| 言語| 退職日|
     | --- | --- | --- | --- | --- |
-    | 6235 | A | Implementing and Maintaining Microsoft SQL Server 2008 Integration Services | 英語 | 2018 年 8 月 20 日
+    | 6235 | A | Implementing and Maintaining Microsoft SQL Server 2008 Integration Services | 英語 | 2018/08/20 | 
 
 * 2018 年 7 月 31 日に終了したコースウェア
 

@@ -2,19 +2,35 @@
 title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
-  description: Microsoft Officeのスペシャリストとして稼ぐことによって、あなたはOfficeから最大の物を獲得するために必要な上級技術を持っていることを実証しましょう：複数の Office プログラム プログラムにおける Expert 認定資格
+  description: 'ある特定の Office プログラムにおいて Microsoft Office Specialist: Expert 認定資格を取得することにより、Officeを最大限に活用するのに必要な上級スキルを身に付けていることを実証してください。'
 uid: certification.microsoft-office-specialist-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: 複数の Office プログラム プログラムの Microsoft Office Specialist の Expert 認定を取得することにより、Office を最大限に活用するための上級スキルを身に付けていることを証明しましょう。
-subTitle: Microsoft Officeのスペシャリストとして稼ぐことによって、あなたはOfficeから最大の物を獲得するために必要な上級技術を持っていることを実証しましょう：複数の Office プログラム プログラムにおける Expert 認定資格.
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  複数の Office プログラムにおいて Microsoft Office Specialist&#58; Expert 定資格を取得することにより、Officeを最大限に活用するのに必要な上級スキルを身に付けていることを実証してください。
+
+  TMicrosoft Office Specialist&#58; Master 認定資格を取得するには、次の要件を満たしてください：
+
+  - 次の 3 つの Associate 試験に合格して Microsoft Office Specialist Associate 認定資格を取得する
+    - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
+    - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
+    - [MO-300&#58; Microsoft PowerPoint (PowerPoint および PowerPoint 2019)](/learn/certifications/exams/mo-300)
+    - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
+
+  - 次の 3 つの Expert 試験に合格する&#58;
+    - [MO-101&#58; Microsoft Word Expert (Word and Word 2019)](/learn/certifications/exams/mo-101)
+    - [MO-201&#58; Microsoft Excel Expert (Excel and Excel 2019)](/learn/certifications/exams/mo-201)
+    - [MO-500&#58; Microsoft Access Expert (Access and Access 2019)](/learn/certifications/exams/mo-500)
+subTitle: 'ある特定の Office プログラムにおいて Microsoft Office Specialist: Expert 認定資格を取得することにより、Officeを最大限に活用するのに必要な上級スキルを身に付けていることを実証してください。'
 levels:
-- intermediate
+- advanced
 skills:
-- Microsoft Word Expert (Word と Word 2019)
-- Microsoft Excel Expert (Excel と Excel 2019)
-- Microsoft Access Expert (Access と Access 2019) (近日公開)
+- Microsoft Word Expert (Word and Word 2019)
+- Microsoft Excel Expert (Excel and Excel 2019)
+- Microsoft Access Expert (Access and Access 2019)
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office
@@ -26,16 +42,18 @@ prerequisites:
 exams:
 - uid: exam.mo-101
 - uid: exam.mo-201
+- uid: exam.mo-500
 resources:
 - title: Microsoft トレーニングおよび認定資格のガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

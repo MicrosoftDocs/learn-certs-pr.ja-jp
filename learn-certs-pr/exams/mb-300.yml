@@ -1,48 +1,47 @@
 ### YamlMime:Examination
 title: 'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
-  title: '試験 MB-300: Microsoft Dynamics 365: Core Finance and Operations'
-  description: '試験 MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  title: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
 uid: exam.mb-300
 displayName: MB-300
-summary: >-
-  この試験の受験者は、ビジネス要件を分析する機能コンサルタントであり、それらの要件を、業界のベスト プラクティスを実施する完全に現実化したビジネス プロセスとソリューションへと転換します。受験者は、ビジネス要件を満たすようにアプリケーションを実装および構成する重要なリソースとして、仕えています。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
+  この試験の受験生は、ビジネス要件を分析し、業界のベストプラクティスを実行する現実のビジネスプロセスおよびソリューションにその要件を移し変える職能別コンサルタントです。受験生は、ビジネス要件を満たすようにアプリケーションを実行および構成する重要な人材として活動しています。
   <br/>
 
+  この試験の受験生、はビジネス、カスタマーサービス、フィールドサービス、製造、小売、およびサプライチェーン管理概念に関する会計原則と財務運用を基本的に理解しています。
 
-  この試験の受験者は根本的なビジネス、カスタマー サービス、フィールド サービス、製造、小売、およびサプライチェーン管理の概念の会計原則と財務運用の理解を持っています。
-
-
-  この試験の受験者は Microsoft Dynamics 365 Finance and Operations1つ以上の機能セットで財務、製造、サプライチェーン管理を含めて、通常に専門とします。
+  この試験の受験者は Microsoft Dynamics 365 の財務および運用の1つ以上の機能セットで財務、製造、サプライチェーン管理を含めて、通常に専門とします。
 subTitle: 'この試験では、次の技術的なタスクを達成する能力を評価します: 共通の機能と実装ツールを使用します。セキュリティ、プロセス、およびオプションを構成します。データ移行を実行します。ソリューションを検証およびサポートします。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-300&examname=試験%20MB-300:%20Microsoft%20Dynamics%20365%20Unified%20Operations%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 levels:
 - intermediate
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - 共通の機能と実装ツールを使用する (20-25%)
 - セキュリティ、プロセス、およびオプションを構成する (45-50%)
 - データ移行を実行する (15-20%)
 - ソリューションの検証とサポート (15-20%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-310
-- uid: exam.mb-320
-- uid: exam.mb-330
 products:
 - dynamics
 - dynamics-finance-operations
 - dynamics-finance
+exams:
+- uid: exam.mb-310
+- uid: exam.mb-320
+- uid: exam.mb-330
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
+- uid: course.mb-300t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -56,20 +55,24 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

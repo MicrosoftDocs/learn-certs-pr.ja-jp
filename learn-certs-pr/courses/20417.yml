@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: Upgrading Your Skills to MCSA Windows Server® 2012
+metadata:
+  title: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+  description: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+uid: course.20417
+courseNumber: '20417-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows Server 2012 のインストールおよび設定。
+- skill: WindowsPowerShell® を使用して Windows Server 2012 を管理します。
+- skill: Windows Server 2012 でストレージを管理します。
+- skill: ネットワーク サービスを実装します。
+- skill: リモート アクセスを実装する。
+- skill: フェールオーバー クラスタリングを実装する。
+- skill: Hyper-V™ を実装する。
+- skill: Hyper-V でフェールオーバー クラスタリングを構成する。
+- skill: ユーザーとデバイスに安全なデータ アクセスを実装します。
+- skill: Active Directory® Domain Services (AD DS) を実装します。
+- skill: Active Directory Federation Service (AD FS) を実装する。
+- skill: Windows Server 2012 を監視および保守します。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-417
+summary: |-
+  この 5 日間の Microsoft Official Course では、Windows Server 2012 R2 を含む Windows Server 2012 の新しい機能の構成と実装を実践的に学び、実行します。このコースは、既存の Windows Server の技術スキルを Windows Server 2012 および Windows Server 2012 R2 にアップグレードしたい IT プロフェッショナルを対象としています。これは、MCSA&#58; Windows Server 2008 資格 と同等の、以前の Windows Server テクノロジとスキルに関する高度な知識を前提としています。 
+
+  このコースでは、管理、ネットワーク インフラストラクチャ、ストレージ、アクセス制御、仮想化、高可用性、ID フェデレーションなど、Windows Server 2012 と Windows Server 2012 R2 の新機能について説明します。対象となる特定のテクノロジには、Windows PowerShell、Storage Space と Internet Small Computer System interface (iSCSI)、Active Directory、Hyper-V、そして DirectAccess、VPN、Web Application Proxy (WAP) などの Remote Access ソリューションの実装などが含まれます。このコースでは、Failover Clustering、Federation Service、Dynamic Access Control などのアクセスと情報のプロビジョニングと保護技術、Federation Service と Workplace Join との Web アプリケーション プロキシの統合についても説明します。 
+
+  このコースは製品のアップグレードコースではなく、特定の環境を Windows Server 2012 に移行およびアップグレードするための考慮事項を詳しく説明しています。むしろ、このコースでは、既存の Windows Server の知識とスキルを Windows Server 2012 R2 を含む Windows Server 2012 に更新します。 
+
+  このコースは、適格なアップグレードパスを持つ認定資格のアップグレード試験である Microsoft Certified Solutions Associate (MCSA)&#58;  Exam [417&#58; Upgrading Your Skills to MCSA Windows Server 2012](http://www.microsoft.com/learning/exam-70-417.aspx) に直接対応しており、その実践的な準備に適しています。サポートされているさまざまなアップグレード パスの詳細については、こちら [https://www.microsoft.com/learning/en-au/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx)  
+
+  注&#58; このコースのラボは、Windows Server 2012 R2 および Windows 8.1 に基づいています。
+
+  #### 視聴者プロフィール
+  このコースは、Windows Server の日常的な管理タスクとメンテナンス タスクに精通している、経験豊富な Windows Server システム管理者である情報技術 (IT) プロフェッショナルを対象としています。このコースでは、スキルが Windows Server 2012 および Windows Server 2012 R2 に更新されます。このコースに適した候補者は&#58;
+  - または Windows Server  エンタープライズ環境での実務経験を持つ、経験豊富な Windows Server 管理者。
+  - [MCSA&#58;  Windows Server 2008](http://www.microsoft.com/learning/en-gb/mcsa-windows-server-2008-certification.aspx)、または適格なアップグレード認定資格 (詳細は [こちら](https://www.microsoft.com/learning/windows-server-certification.aspx)) を取得済み、または同等の知識を有する IT プロフェッショナル。
+  - Data Center、Desktop Infrastructure、Messaging、Collaboration、および Communications で Microsoft Certified Solutions Expert (MCSE) 試験を受験したい IT プロフェッショナルも、個々の専門のための前提条件となる Microsoft Certified Solutions Associate (MCSA) Windows Server 2012 資格の準備として、このコースを受講することに興味を持っています。
+prerequisitesSection: |-
+  このコースに参加する前に、受講者は次のことが必要です&#58;
+  - エンタープライズ環境での日常的な Windows Server システムの管理およびメンテナンス タスクの経験
+  - こちら [https://www.microsoft.com/learning/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx) に記載されている 70-417 アップグレード試験を受ける資格が与えられる認定資格を取得済み、または同等の知識を有する
+
+  注意&#58; 同等の知識の基準を満たしていれば、アップグレード可能な認定資格がなくてもこのコースを受講できます。ただし、その後に 70-417 アップグレード試験を受験して合格しても、受験者には MCSA&#58;  Windows Server 2012 資格は付与されません。この認証情報のアップグレードは、既存の対象となるアップグレード可能な認定の所有者専用であり、詳細は上記の URL で入手できます。
+outlineSection: |-
+  ### モジュール 1&#58; Windows Server 2012 のインストールと構成
+  このモジュールでは、Windows Server 2012 をインストールして構成する方法について説明します。具体的には、インストールの要件と考慮事項、ロールのインストール、および Server Core などのインストール タイプについて説明します。また、Windows Server 2012 を実行しているサーバーのリモート管理の実装と構成についても説明します。
+  #### レッスン
+  - Windows Server 2012 R2 のインストール
+  - Windows Server 2012 R2 および Windows Server 2012 の構成
+  - Windows Server 2012 R2 および Windows Server 2012 のリモート管理の構成
+
+
+  #### ラボ &#58;  Windows Server 2012 R2 のインストールと構成
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 R2 をインストールする
+  - Windows Server 2012 R2 および Windows Server 2012 を構成する。
+  - Windows Server 2012 R2 および Windows Server 2012 のリモート管理を構成する。
+
+
+  ### モジュール 2&#58; Windows PowerShell を使用した Windows Server 2012 の管理
+  このモジュールでは、Windows PowerShell を使用して Windows Server 2012 を管理する方法について説明します。Windows PowerShell および Windows PowerShell Integrated Scripting Environment (ISE) の概要を説明します。また、AD DS および一般的なサーバー管理のコンテキストでの Windows PowerShell についても説明します。
+  #### レッスン
+  - Windows PowerShell の概要
+  - Windows PowerShell を使用して AD DS を管理する
+  - Windows PowerShell を使用したサーバーの管理
+
+
+  #### ラボ &#58; Windows PowerShell を使用した Windows Server 2012 を実行中のサーバーの管理
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows PowerShell コマンド ライン インターフェイスについて説明する。
+  - Windows PowerShell を使用して Active Directory Domain Service (AD DS) を管理する。
+  - Windows PowerShell を使用してサーバーを管理する。
+
+
+  ### モジュール 3&#58; Windows Server 2012 でのストレージの管理
+  このモジュールでは、Windows Server 2012 でストレージを構成する方法について説明します。
+  #### レッスン
+  - Windows Server 2012 のストレージ機能
+  - iSCSI ストレージの設定
+  - Windows Server 2012 の記憶域スペースの構成
+  - Windows Server 2012 での BranchCache の構成
+
+
+  #### ラボ &#58; Windows Server 2012 を実行しているサーバーのストレージの管理
+
+  #### ラボ &#58; BranchCache の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 のストレージ機能について説明する。
+  - iSCSI ストレージを構成する。
+  - 記憶域を構成する。
+  - BranchCache を構成する。
+
+
+  ### モジュール 4&#58; ネットワーク サービスの実装
+  このモジュールでは、Domain Name System (DNS) と Dynamic Host Configuration Protocol (DHCP) の高度な機能を構成する方法について説明します。また、IP Address Management (IPAM) と Network Access Protection (NAP) を構成する方法についても説明します。
+  #### レッスン
+  - DNS および DHCP 拡張機能の実装
+  - IPAM の実装
+  - IPAM による IP アドレス スペースの管理
+  - NAP の概要
+  - NAP を実装する
+
+
+  #### ラボ &#58; ネットワーク サービスの実装
+
+  #### ラボ &#58; NAPのデプロイ
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - DHCP と DNS の拡張機能を実装する。
+  - IPAM を実装する。
+  - IPAM で IP アドレス スペースを管理する。
+  - NAP について説明する。
+  - NAP を実装する。
+
+
+  ###  モジュール  5&#58; リモート アクセスの実装
+  このモジュールでは、Windows Server 2012 でリモート アクセスをプロビジョニングするためのオプションについて説明します。具体的には、DirectAccess と VPN、および証明書の使用を含め、Windows Server 2012 環境でこれらのリモート アクセス テクノロジを実装および管理するための考慮事項について説明します。
+  #### レッスン
+  - リモート アクセスの概要
+  - スタートアップ ウィザードを使用した DirectAccess の実装
+  - 高度な DirectAccess インフラストラクチャの実装と管理
+  - VPN の実装
+
+
+  #### ラボ &#58; DirectAccess の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server　2012 にリモートアクセスのロールをインストールおよび管理する。
+  - スタートアップウィザードを使用して DirectAccess を実装する。
+  - 高度な DirectAccess インフラストラクチャを実装して管理する。
+  - Windows Server　2012 に VPN アクセスを実装する。
+
+
+  ### モジュール 6&#58; フェイルオーバー クラスタリングの実装
+  このモジュールでは、フェイルオーバー クラスタリングを実装して、ネットワーク サービスとアプリケーションに高可用性を提供する方法について説明します。用語とテクノロジーの概要、および検討中のサービスとアプリケーションに関する特定の考慮事項とオプションについて説明します。
+  #### レッスン
+  - フェールオーバー クラスタリングの概要
+  - フェイルオーバー クラスターを実装する
+  - フェールオーバー クラスターでの高可用性アプリケーションとサービスの構成
+  - フェールオーバー クラスターの維持
+  - マルチサイト フェイルオーバー クラスターの実装
+
+
+  #### ラボ &#58; フェールオーバークラスタリングの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - フェイルオーバー クラスタリングについて説明する。
+  - フェイルオーバー クラスターを実装する。
+  - 高可用性アプリケーションとサービスを構成する。
+  - フェールオーバークラスタを維持する。
+  - マルチサイト フェイルオーバー クラスタリングを実装する。
+
+
+  ### モジュール7&#58;Hyper-Vの実装
+  このモジュールでは、Hyper-V 仮想マシンをインストールして構成する方法について説明します。一般的な構成だけでなく、ストレージとネットワークの考慮事項についても説明します。また、Windows Server 2012 R2 で導入された違いについても説明します。
+  #### レッスン
+  - Hyper-V サーバーの構成
+  - Hyper-V ストレージの構成
+  - Hyper-V ネットワークの構成
+  - Hyper-V 仮想マシンの設定
+
+
+  #### ラボ &#58; Hyper-V によるサーバー仮想化の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Hyper-V サーバーを構成する。
+  - Hyper-V 記憶域の構成
+  - Hyper-V ネットワークの構成
+  - Hyper-V 仮想マシンを設定する。
+
+
+  ### モジュール 8&#58; Windows Server 2012R2Hyper-V を使用したフェイルオーバー クラスタリングの実装
+  このモジュールでは、フェイルオーバー クラスタで Hyper-V 仮想マシンを展開および管理する方法について説明します。関係するテクノロジの概要、および仮想マシンの一般的な構成と移行の詳細を提供します。
+  #### レッスン
+  - Hyper-V Server 2012 とフェイルオーバークラスタリングの統合の概要
+  - フェールオーバー クラスターでのHyper-V 仮想マシンの実装
+  - Windows Server 2012 Hyper-V 仮想マシン移行の実装
+  - Hyper-V レプリカの実装
+
+
+  #### ラボ &#58; Windows Server 2012 Hyper-V によるフェイルオーバークラスタリングの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  -  Hyper-V がフェイルオーバー クラスタリングとどのように統合されるかについて説明する。
+  - フェイルオーバー クラスターに Hyper-V 仮想マシンを実装する。
+  - Hyper-V 仮想マシンの動きを実装する。
+  - Hyper-V レプリカを実装する。
+
+
+  ### モジュール 9&#58; ユーザーとデバイスの安全なデータ アクセスの実装
+  このモジュールでは、ユーザーとデバイスの安全なデータ アクセスを構成する方法について説明します。主に Dynamic Access Control (DAC) と Work Folder の実装について説明します。
+  #### レッスン
+  - ダイナミック アクセス コントロールの概要
+  - DAC コンポーネントの実装
+  - アクセス制御用の DAC の実装
+  - Access Denied Assistance の実装
+  - ワーク フォルダーの実装と管理
+
+
+  #### ラボ &#58; 安全なファイル アクセスの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - DAC について説明する。
+  - DAC コンポーネントを実装する。
+  - アクセス制御用の DAC を実装する。
+  - アクセス拒否アシスタンスを実装する。
+  - ワーク フォルダーの実装と管理。
+
+
+  ### モジュール 10&#58; AD DS の実装
+  このモジュールでは、Windows Server 2012 に AD DS を実装する方法について説明します。ドメイン コントローラの展開と構成、および Windows Azure Active Directory によって提供されるサービス アカウント、Group Policy、サービスの使用と実装について説明します。また、AD DS の一般的な保守についても説明します。
+  #### レッスン
+  - AD DS ドメイン コントローラの展開
+  - AD DS ドメイン コントローラの構成
+  - サービス アカウントを実装する
+  - AD DS に Group Policy を実装する
+  - Windows Azure Active Directory の概要
+  - AD DS の維持
+
+
+  #### ラボ &#58; AD DS の実装
+
+  #### ラボ &#58; AD DS のトラブルシューティングと保守
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - ドメイン コントローラを展開する。
+  -ドメイン コントローラーを構成する。
+  - サービス アカウントを実装する。
+  - グループ ポリシーを実装します。
+  - Windows Azure Active Directory について説明する。
+  - AD DS を保守する。
+
+
+  ### モジュール 11&#58; AD FS の実装
+  このモジュールでは、AD FS 展開を実装する方法について説明します。単一の組織の使用シナリオと企業間シナリオについて触れています。このモジュールでは、Web　Application Proxy と Workplace Join についても説明します。
+  #### レッスン
+  - AD FS の概要
+  - AD FS の展開
+  - 単一組織向けの AD FS の実装
+  - 企業間フェデレーション シナリオにおける AD FS の展開
+  - Web アプリケーション プロキシの実装
+  - Workplace Join の実装
+
+
+  #### ラボ &#58; AD FS の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - AD FS について説明する。
+  - AD FSをデプロイする方法を説明します。
+  - 単一組織向けの AD FS の実装方法を説明する。
+  - 企業間フェデレーション シナリオで AD FS を展開する方法について説明する。
+  - Web アプリケーション プロキシの実装方法について説明する。
+  - Workplace Join を実装する方法について説明する。
+
+
+  ### モジュール 12&#58; Windows Server 2012 の監視と維持
+  このモジュールでは、Windows Server 2012 を監視および保守する方法について説明します。Performance Monitor とデータ コレクタ セット、およびサーバーのバックアップと復元の技術について説明します。
+  #### レッスン
+  - Windows Server 2012 の監視
+  - Windows Server バックアップの実装
+  - サーバーとデータ リカバリの実装
+
+
+  #### ラボ &#58; Windows 2012 Server の監視と維持
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 を監視する
+  - Windows Server バックアップを実装する
+  - Windows Server バックアップを使用してデータとサーバーを復元する。
+

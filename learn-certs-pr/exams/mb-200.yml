@@ -1,54 +1,54 @@
 ### YamlMime:Examination
 title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
-  title: '試験 MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  description: '試験 MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  </div>
+
   この試験の受験者は、エンタープライズ ライセンス製品の機能と機能性に精通している機能コンサルタントです。機能コンサルタントとして、受験者は機能のバンドル済みバージョンに精通していますが、それらのバンドル製品を主な対象として作業するわけではありません。
 
-  <br/>
+  受験生は主に、クライントのニーズに答えること、新機能と機能性の実装に関連する設計タスクの実行、システム変更の実装とテストに対して責任をおっています。
 
-
-  受験者は主に、クライントのニーズに答えること、新機能と機能性の実装に関連する設計タスクの実行、システム変更の実装とテストに対して責任をおっています。
-
-
-  受験者はソリューションの機能デザインもプランニングし、アプリケーション ライフサイクル管理 (ALM) プロセスを実装し、レガシーや外部のシステムからデータとオブジェクトを移行し、Power Platform を他のシステムと統合し、Power Platform 環境を管理します。
+  受験生はソリューションの機能デザインもプランニングし、アプリケーションライフサイクル管理(ALM)プロセスを実装し、レガシーや外部のシステムからデータとオブジェクトを移行し、Power Platformを他のシステムと統合し、Power Platform環境を管理します。
 subTitle: 'この試験は、次の技術的なタスクを達成する能力を評価します: 発見、計画、分析を実行します。ユーザーエクスペリエンスデザインの管理。エンティティとデータを管理します。セキュリティを実装します。統合を実装します。ソリューションの展開とテストを実行します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-200&examname=試験%20試験%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
-- プラットフォーム ディスカバリ、計画、分析 (5-10%)
-- ユーザー エクスペリエンス デザインの管理 (20-25%)
-- エントリーとデータの管理 (15-20%)
+- この試験の内容は、2020 年 5 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 発見、計画、および分析を実行する(5-10%)
+- ユーザー エクスペリエンスデザインを管理する (20-25%)
+- エンティティおよびデータを管理する (15-20%)
 - セキュリティの実装 (5-10%)
-- 統合の実装 (15-20%)
-- ソリューション開発とテストの実行(25-30%)
+- 統合を実装する(15-20%)
+- ソリューションの展開およびテストを実行する(25-30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
 products:
 - dynamics
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -64,20 +64,24 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

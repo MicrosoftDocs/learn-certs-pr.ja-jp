@@ -25,13 +25,15 @@ levels:
 skills:
 - データの準備 (20-25%)
 - データのモデル化 (25-30%)
-- データの視覚化(20-25%)
+- データの視覚化(20〜25%)
 - データを分析します (10-15%)
 - 配信可能性の展開と維持(10-15%)
 roles:
 - data-analyst
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate
@@ -39,7 +41,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

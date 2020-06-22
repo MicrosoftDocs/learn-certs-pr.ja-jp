@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
-  description: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
-  Dynamics 365 の Solution Architects for Microsoft Power Apps は、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
+  Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
 
   Solution Architect は、 Dynamics 365 Customer Service 、 Dynamics 365 Field Service 、 Dynamics 365 Marketing 、 Dynamics 365 Sales 、関連する Microsoft クラウド ソリューション、その他のサードパーティ テクノロジーなど、 Dynamics 365 の Power Platform モデル駆動型アプリケーションの機能と技術に関する知識を持っています。Solution Architect は、エンゲージメント全体に知識と経験を適用します。Solution Architect は、顧客の投資価値を高め、組織の健全性を促進するために、積極的で予防的な作業を行います。この役割を果たすには、ビジネス問題を解決する機会を特定する能力が必要です。
 
-  Solution Architect は、 Power Platform の機能的・技術的な分野および Dynamics 365 のモデル駆動型アプリケーションの経験を持っています。Solution Architect は、開発、構成、統合、インフラストラクチャ、セキュリティ、可用性、ストレージ、および変更管理などの全体にわたる設計の決定を促進できる必要があります。この役割は、機能要件と機能以外の要件を満たしながら、プロジェクトのビジネスニーズのバランスを取ります。
-
-  <div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</div>
+  Solution Architect は、 Power Platform の機能的・技術的な分野および Dynamics 365 のモデル駆動型アプリケーションの経験を持っています。ソリューション アーキテクトは、開発、構成、統合、インフラストラクチャ、セキュリティ、可用性、ストレージ、および変更管理などの全体にわたる設計の決定を促進できる必要があります。この役割は、機能要件と機能以外の要件を満たしながら、プロジェクトのビジネス ニーズのバランスを取ります。
 subTitle: 'この試験では、ソリューションの展望と要件分析の実行、ソリューションの設計、ソリューションの実装などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - Solution Envisioning および Requirement Analysis を実行する(30-35%)
 - Solution を設計する(45-50%)
 - Solutionを実装する(20-25%)
@@ -42,12 +39,12 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert。'
+  description: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

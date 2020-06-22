@@ -1,60 +1,64 @@
 ### YamlMime:Examination
 title: Microsoft 365 Mobility and Security
 metadata:
-  title: '試験 MS-101: Microsoft 365 Mobility and Security'
-  description: '試験 MS-101: Microsoft 365 Mobility and Security'
+  title: 'Exam MS-101: Microsoft 365 Mobility and Security'
+  description: 'Exam MS-101: Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポート テクノロジを含む、企業向けの Microsoft 365 テナント管理タスクを実行します。
 
-
-  受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
-subTitle: この試験では、次の技術的タスクを達成する能力を評価します：最新のデバイスサービスを実装します。Microsoft 365 のセキュリティと脅威管理を実装します。Microsoft 365 のガバナンスとコンプライアンスを管理します。
+   受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
+subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します：最新のデバイスサービスを実装します。Microsoft 365 のセキュリティと脅威管理を実装します。Microsoft 365 のガバナンスとコンプライアンスを管理します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-101&examname=試験%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - 最新のデバイスサービスの実装 (30-35%)
 - Microsoft 365 セキュリティと脅威の管理の実装 (30-35%)
 - Microsoft 365 のガバナンスとコンプライアンスの管理 (35-40%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-100
 products:
 - m365
 - azure-active-directory
 - office-365
+exams:
+- uid: exam.ms-100
 courses:
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-101t00
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

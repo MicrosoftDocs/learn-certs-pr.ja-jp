@@ -1,28 +1,32 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: '試験 MS-500: Microsoft 365 Security Administration'
-  description: '試験 MS-500: Microsoft 365 Security Administration'
+  title: 'Exam MS-500: Microsoft 365 Security Administration'
+  description: 'Exam MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: >-
-  この試験の受験者は、Microsoft 365 およびハイブリッド環境用のセキュリティおよびコンプライアンス ソリューションを実装、管理、および監視します。Microsoft 365 セキュリティ管理者は、Microsoft 365 企業環境を予防的に保護し、脅威に対応し、調査を行い、データガバナンスを強化します。Microsoft 365 セキュリティ管理者は、Microsoft 365 エンタープライズ管理者、ビジネス関係者、およびその他のワークロード管理者と協力してセキュリティ戦略を計画および実装し、ソリューションが組織のポリシーおよび規制に準拠していることを確認します。
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>本試験の内容は、2020年6月8日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  </div>
 
+  この試験の受験生は、Microsoft 365およびハイブリッド環境用のセキュリティおよびコンプライアンスソリューションを実施、管理、および監視します。Microsoft 365 セキュリティ管理者は、 Microsoft 365 企業環境を積極的に保護し、脅威に対応し、調査を実施し、データガバナンスを強化します。Microsoft 365セキュリティ管理者は、Microsoft 365エンタープライズ管理者、ビジネス関係者、およびその他のワークロード管理者と協力してセキュリティ戦略を計画および実装し、ソリューションが組織のポリシーおよび規制に準拠していることを確認します。
   <br/>
 
-
   この試験の受験者は、Microsoft 365 のワークロードに精通しており、ID 保護、情報保護、脅威からの保護、セキュリティ管理、およびデータ ガバナンスに関する強力なスキルと経験を持っています。この役割は Microsoft 365 環境に焦点を当てており、ハイブリッド環境が含まれます。
-subTitle: この試験では、次の技術的タスクを達成する能力を評価します：ID とアクセスを実装および管理。脅威対策の実装と管理。情報保護の実装と管理。Microsoft 365 のガバナンスおよびコンプライアンス機能を管理。
+subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します：ID とアクセスを実装および管理。脅威対策の実装と管理。情報保護の実装と管理。Microsoft 365 のガバナンスおよびコンプライアンス機能を管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-500&examname=試験%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
+- 本試験の内容は、2020年6月8日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - ID とアクセスの実装と管理 (30-35%)
 - 脅威からの保護を実装および管理する (20-25%)
 - 情報保護の実施と管理 (15-20%)
@@ -44,24 +48,28 @@ relatedCertifications:
 - related:
     uid: certification.m365-security-administrator
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Security Administrator Associate。'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Security Administrator Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

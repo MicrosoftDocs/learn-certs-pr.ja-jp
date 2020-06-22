@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'MOS: PowerPoint 2010'
+metadata:
+  title: 'Exam 77-883: MOS: PowerPoint 2010'
+  description: 'Exam 77-883: MOS: PowerPoint 2010'
+uid: exam.77-883
+displayName: 77-883
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  試験の主な対象者は、特徴レベルおよび機能レベルで PowerPoint 2010 を使用する必要がある学生、オフィス ワーカー、またはインストラクターです。
+
+  PowerPoint 2010 のコア ユーザーは、生産性向上ツールに精通しており、プロジェクトで他のユーザーと頻繁に共同作業を行い、効率化を図るため作業環境をパーソナライズしています。受験者は、効果的かつ実用的なスライドショーを作成または作成する方法を理解および実証する必要があります。
+subTitle: 試験の主な対象者は、特徴レベルおよび機能レベルで PowerPoint 2010 を使用する必要がある学生、オフィス ワーカー、またはインストラクターです。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- PowerPoint 環境を管理する
+- スライド プレゼンテーションを作成する
+- グラフィカル要素とマルチメディア要素を操作する
+- チャートや表を作成する
+- 画面を切り替えるおよびアニメーションを適用する
+- プレゼンテーションで共同作業する
+- 配布用のプレゼンテーションを準備する
+- プレゼンテーションを配布する
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

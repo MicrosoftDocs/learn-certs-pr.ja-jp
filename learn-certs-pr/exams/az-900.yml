@@ -7,14 +7,18 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月28日に更新されます。注意&#58;&#58;  2020 年 4 月 15 日以前に発表された更新プログラムは、2020 年 9 月 15 日に実施されます。5 月 28 日に予定されている更新は、文言のマイナーな更新です。 5 月 28 日に変更予定の内容を確認するには、以下のスキル評価文書をダウンロードしてください。</div>
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>この試験の内容は、2020 年 5 月 28 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
-  この試験は、 CloudサービスやそれらのサービスがMicrosoft Azureでどのように提供されるのかについての基礎的な知識レベルをデモンストレーションしたい受験者向けです。この試験は、例えば Cloudベースのソリューションを売り買いする立場の人であったり Cloudベースのソリューションやサービスの関係者、といった非テクニカルなバックグラウンドの受験者、または、 Cloudサービス周りの基礎レベルの知識を検証する技術的バックグラウンドのある人のために用意されています。一般的なIT知識や経験は役に立ちますが、技術的なIT経験は必須ではありません。
+  この試験の受験者は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかを理解している必要があります。
 
-  この試験は、Microsoft Azureに代表される Cloudサービスやそれらのコンセプトを学ぶ、オプションとしての最初のステップとして受験することもできます。また、Microsoft AzureやMicrosoftクラウドサービス試験の前準備として受けることもできます。この試験の受験は、最初の一歩としてあるいは基礎知識の証明としても使えますが、Azure ベースの認証を受けるの必須条件ではありません。
-subTitle: 'この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。'
+  Azure Fundamentals 試験は、クラウドの概念、Azure のコア サービス、Azure の価格、SLA、ライフサイクル、およびクラウドのセキュリティ、プライバシー、コンプライアンス、信頼の基礎に関する知識を証明する機会です。
+
+  この試験は、クラウドベースのソリューションとサービスを使い始めた人を対象としています。受験者は、Azure のサービス、ワークロード、セキュリティ、プライバシー、価格、サポートだけでなく、クラウドの概念に関する基本的な知識を実証できる必要があります。また、ネットワーキング、ストレージ、コンピューティング、アプリケーション サポート、およびアプリケーション開発の概念についても理解している必要があります。
+
+  Azure Fundamentals は、他の Azure のロール ベースまたは専門分野の認定の準備に使用できますが、それらのいずれの前提条件でもありません。
+subTitle: '「この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。」'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,30 +35,28 @@ locales:
 levels:
 - beginner
 skills:
-- '本試験の内容は、2020年5月28日に更新されます。注意: 2020 年 4 月 15 日以前に発表された更新プログラムは、2020 年 9 月 15 日に実施されます。5 月 28 日に予定されている更新は、文言のマイナーな更新です。 5 月 28 日に変更予定の内容を確認するには、以下のスキル評価文書をダウンロードしてください。'
-- Cloudの概念の理解 (15-20%)
-- コアな Azure サービスの理解 (30-35%)
-- セキュリティ、プライバシー、コンプライアンス、信用についての理解 (25-30%)
-- Azure の料金プランとサポートについての理解 (20-25%)
+- この試験の内容は、2020 年 5 月 28 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- クラウドの概念について説明する (15-20%)
+- Azure のコアサービスについて説明する (30-35%)
+- セキュリティ、プライバシー、コンプライアンス、信頼について説明する (25-30%)
+- Azure の価格サービス レベル アグリーメントとライフサイクルについて説明する(20-25%)
 roles:
 - developer
 products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure Fundamentals になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 資格試験のサポート

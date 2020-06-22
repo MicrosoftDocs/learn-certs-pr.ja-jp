@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: 'Microsoft Azure AI Fundamentals (beta)'
+metadata:
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+uid: exam.ai-900
+displayName: AI-900
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、機械学習 (ML) および人工知能 (AI) の概念と関連する Microsoft Azure サービスの基礎知識を持っている必要があります。
+
+  この試験は、一般的な ML および AI ワークロードの知識と、それらを Azure に実装する方法を示す機会です。  
+
+  この試験は、技術的背景と非技術的背景の両方を持つ候補者を対象としています。データ サイエンスとソフトウェア エンジニアリングの経験は必要ありませんが、プログラミングに関する一般的な知識や経験があれば好ましいです。  
+
+  Azure AI Fundamentals は、Azure Data Scientist Associate や Azure AI Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。  
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; 本試験は、2020年6月8日前後に受験できます。</div>
+subTitle: 'この試験は 2020 年 6 月 8 日頃に実施されます。次のことを説明できることを証明します。AI ワークロードと考慮事項。 Azure での機械学習の基本原則。 Azure のコンピュータ ビジョン ワークロードの機能。 Azure の会話型 AI ワークロードの機能。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+locales:
+- en
+levels:
+- beginner
+skills:
+- AI ワークロードと考慮事項について説明する (15-20%)
+- Azure での機械学習の基本原則について説明する (30-35%)
+- Azure のコンピューター ビジョン ワークロードの機能について説明する (15-20%)
+- Azure の会話型 AI ワークロードの機能について説明する (15-20%)
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-fundamentals
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md
+

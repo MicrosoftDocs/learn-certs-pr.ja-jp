@@ -8,15 +8,15 @@ displayName: AZ-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の新バージョン<a href="/learn/certifications/exams/az-204">AZ-204</a>, は、2月24日に受験できるようになりました。本試験は、 2020年8月31日前後に終了するまで、受験することができます。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
+  <div style='font-weight&#58; bold;'>この試験は 2020 年 5 月 31 日に廃止されました。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
   </div>
 
   この試験の受験生はアプリケーションやサービスといったクラウドソリューションを設計、構築した Azure デベロッパーですこれらの対象者は、ソリューション設計から開発やデプロイ、テストやメンテナンスまでの開発のすべてのフェーズに関わります。ソリューションの実装にあたって、クラウドソリューションアーキテクト、クラウド DBA、クラウドアドミニストレータ、クライアントと連携を取ります。
   <br/>
 
-  受験者はストレージ、セキュリティ、計算、コミュニケーションを含む Azure ツールとテクノロジを利用したアプリとサービス開発に精通している必要があります。
+  受験生はストレージ、セキュリティ、計算、コミュニケーションを含む Azure ツールとテクノロジを利用したアプリとサービス開発に精通している必要があります。
 
-  受験者は最低一年のソフトウェア開発の全フェーズにわたるスケーラブルなソリューションの開発の経験を持ち、最低1種類の Cloudをサポートしたプログラム言語のスキルを保有している必要があります。
+  受験生は最低1年のソフトウェア開発の全段階にわたるスケーラブルなソリューションの開発の経験を持ち、最低1種類のクラウドをサポートしたプログラム言語のスキルを保有している必要があります。
 
   <div style='font-weight&#58; bold;'><br/>注意&#58; この試験に合格すると、次の認定資格を取得できます。&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: 'この試験では、Azure のサービスとしてのインフラのコンピューティングソリューション開発、Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発、Azureストレージを開発、Azure Security の実装、ソリューションの監視・トラブルシューティング・最適化、zure サービスとサードパーティサービスの連携と活用、という技術的なタスクを遂行する能力を測定します。'
@@ -33,7 +33,6 @@ providers:
 levels:
 - intermediate
 skills:
-- 本試験の新バージョン AZ-204 は、 2月24日に受験できるようになりました。本試験は、 2020年8月31日前後に終了するまで、受験することができます。以下のスキル測定ドキュメントをダウンロードして、変更に関する詳細情報をご覧ください。
 - Azure のサービスとしてのインフラのコンピューティングソリューション開発(10-15%)
 - Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発 (20-25%)
 - Azure ストレージを開発 (15-20%)
@@ -55,6 +54,7 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
+- uid: course.az-020t00
 - uid: course.az-203t01
 - uid: course.az-203t02
 - uid: course.az-203t03
@@ -75,13 +75,10 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure Developer Associate になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

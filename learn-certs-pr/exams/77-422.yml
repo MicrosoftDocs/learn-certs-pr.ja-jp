@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: PowerPoint 2013
+metadata:
+  title: 'Exam 77-422: PowerPoint 2013'
+  description: 'Exam 77-422: PowerPoint 2013'
+uid: exam.77-422
+displayName: 77-422
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  MOS 2013 Study Guide for Microsoft PowerPoint Published&#58; 2013 年 10 月
+
+  PowerPoint の専門知識を実証するために学習します。このオールインワン スタディ ガイドを使用して、2013年 PowerPoint Microsoft Office Specialist (MOS) 試験の演習および準備をします。基本的なスキルを復習するためのわかりやすい手順とイラストとともに、完全かつ客観的な試験の適用範囲を網羅していることをご確認ください。加えて、ハンズオン プラクティス タスクを入手し、学習したことを適用してください。ガイドにはダウンロード可能な演習ファイルが含まれています。
+
+  Microsoft Press Store で、この書籍を購入
+
+  この試験の受験者は、Office を使用して安全で柔軟性の高いアプリケーションを構築する IT プロフェッショナルを対象としています。
+subTitle: 'この試験の受験者は、Office を使用して安全で柔軟性の高いアプリケーションを構築する IT プロフェッショナルを対象としています。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- プレゼンテーションの作成と管理
+- 図形とスライドを挿入および書式を設定する
+- スライド コンテンツを作成する
+- 画面を切り替えるおよびアニメーションを適用する
+- 複数のプレゼンテーションの管理
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Designing and Providing Microsoft Licensing Solutions to Large Organizations
+metadata:
+  title: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+  description: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+uid: exam.70-705
+displayName: 70-705
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験者は、大規模な組織にライセンスソリューションを販売する営業担当者です。このカテゴリの組織は、通常 250 以上のデバイスまたはユーザーを持っています。受験者は、エンタープライズ契約、エンタープライズサブスクリプション契約、Cloud Solution Provider (CSP)、MPSA、OEM、Open および Open Value を含むすべての Microsoft Corporation ライセンス ソリューションの基本的な理解に加えて、Microsoft のライセンス ソリューションの販売経験が 6 ヶ月以上ある必要があります。
+
+  また、オペレーティング システム、サーバー アプリケーション、デスクトップ アプリケーション、オンライン サービス、およびそれぞれのライセンス モデルなど、Microsoft 製品の種類に関する基本的な知識も必要です。受験者は、顧客のニーズに最も適したソリューションを定義する能力を検証することが求められます。
+subTitle: この試験の受験者は、大規模な組織にライセンスソリューションを販売する営業担当者です。このカテゴリの組織は、通常 250 以上のデバイスまたはユーザーを持っています。受験者は、エンタープライズ契約、エンタープライズサブスクリプション契約、Cloud Solution Provider (CSP)、MPSA、OEM、Open および Open Value を含むすべての Microsoft Corporation ライセンス ソリューションの基本的な理解に加えて、Microsoft のライセンス ソリューションの販売経験が 6 ヶ月以上ある必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+- ko
+- ru
+- es
+levels:
+- beginner
+skills:
+- 適切な技術ソリューションを推奨する (60-65%)
+- 適切なソフトウェア アシュアランスの利点を推奨する (10-15%)
+- ライセンスソリューションの推奨 (20-25%)
+roles:
+- administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

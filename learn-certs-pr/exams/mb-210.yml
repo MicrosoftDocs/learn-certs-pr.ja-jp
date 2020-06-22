@@ -1,39 +1,41 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Sales
 metadata:
-  title: '試験 MB-210: Microsoft Dynamics 365 Sales'
-  description: '試験 MB-210: Microsoft Dynamics 365 Sales'
+  title: 'Exam MB-210: Microsoft Dynamics 365 Sales'
+  description: 'Exam MB-210: Microsoft Dynamics 365 Sales'
 uid: exam.mb-210
 displayName: MB-210
-summary: >-
-  この試験の受験者は、セールス経験を持つ Dynamics 365 の機能コンサルタントです。受験者は、収益目標、ビジネス戦略、会社の目的に沿い効果的で効率的なセールス ライフサイクルをサポートするソリューションに責任を持ちます。
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  </div>
 
-  <br/>
+  この試験の受験者は、セールス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、収益目標、ビジネス戦略、会社の目的に沿い効果的で効率的なセールスライフサイクルをサポートするソリューションに責任を持ちます。
 
-
-  受験者は、リード、契約、アカウント、オポチュニティのコア機能の設定と拡張の責任を負っていて、会社の場所においてセールス過程のマップへのエンティティをサポートします。彼らは、Power Apps を使用してすべてのデバイスの統一されたエクスペリエンスを開発する機会、Power Automate をアプリケーション統合、ビジネス プロセス フロー、およびその他の自動化ツールで「キャッシュ ジャーニーへのリード」をサポートおよび加速するアプリケーションを構築する機会を特定します。」
-
+  受験生は、リード、契約、アカウント、オポチュニティのコア機能の設定と拡張の責任を負っていて、会社の場所においてセールス過程のマップへのエンティティをサポートします。彼らは、Power Apps を使用してすべてのデバイスの統一されたエクスペリエンスを開発する機会、Power Automate をアプリケーション統合、ビジネス プロセス フロー、およびその他の自動化ツールで「キャッシュ ジャーニーへのリード」をサポートおよび加速するアプリケーションを構築する機会を特定します。
 
   受験者は強いビジネス知識と素晴らしい一人称での経験を、1 つ以上のセールス ロールのセールス世界で持っていなければなりません。
 subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: 構成を実行し、主要な販売エンティティを管理し、販売エンティティを管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-210&examname=試験%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 levels:
 - intermediate
 skills:
-- 構成の実行 (40-45%)
+- この試験の内容は、2020 年 5 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 構成を実行する (40-45%)
 - コア セールス エンティティの管理 (20-25%)
 - セールス エンティティの管理 (35-40%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-200
 products:
 - dynamics
 - dynamics-sales
+exams:
+- uid: exam.mb-200
 courses:
 - uid: course.mb-210t01
 paths:
@@ -44,24 +46,28 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-sales
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Dynamics 365 Sales Functional Consultant Associate。'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

@@ -1,44 +1,47 @@
 ### YamlMime:Examination
 title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: '試験 MS-300: Deploying Microsoft 365 Teamwork'
-  description: '試験 MS-300: Deploying Microsoft 365 Teamwork'
+  title: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
+  description: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
 uid: exam.ms-300
 displayName: MS-300
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験は 2020 年 8 月 31 日に廃止されます。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></div>
+  </div>
+
   この試験の受験者は、効率的で効果的なコラボレーションと採用に焦点を当てた Office 365 と Azure のワークロードの構成、展開、および管理を担当するチームワーク管理者です。チームワーク管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。チームワーク管理者は、SharePoint (オンライン、オンプレミス、およびハイブリッド)、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。
-
   <br/>
-
 
   チームワーク管理者は、ガバナンスに関する決定に関与し、他の管理者と協力して、ガバナンス組織によって行われた決定の多くを実行します。チームワーク管理者はメッセージング管理者と協力して電子メール タスクに関連するオプションとセキュリティを構成し、音声管理者は組織内の音声機能を統合し、セキュリティ管理者はエンドツーエンドのセキュリティを確保します。
 
-
-  この試験の受験対象者は、次のアプリやサービスとの統合ポイントについて基本的に理解しています&#58;  Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサードパーティのアプリとサービスを統合する方法を理解しています。受験者は、SQL Server 管理の概念、Azure Active Directory、PowerShell、ネットワーキング、Windowsサーバー管理、ドメインネームシステム (DNS)、Active Directory モバイル デバイス管理、およびその他のオペレーティング システムについても理解しています。
-subTitle: この試験では、次の技術的タスクを達成する能力を評価します：SharePointOnline の構成と管理。OneDrive for Business を構成および管理します。チームの構成と管理。ワークロードの統合を構成および管理します。
+  この試験の受験対象者は、次のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサードパーティのアプリとサービスを統合する方法を理解しています。受験者は、SQL Server管理の概念、Azure Active Directory、PowerShell、ネットワーキング、Windowsサーバー管理、ドメインネームシステム(DNS)、Active Directoryモバイルデバイス管理、およびその他のオペレーティングシステムについても理解しています。
+subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します： SharePointOnline の構成と管理。OneDrive for Business を構成および管理します。チームの構成と管理。ワークロードの統合を構成および管理します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-300&examname=Exam%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-300&examname=試験%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - SharePoint Online の構成と管理 (35-40%)
 - OneDrive for Business の構成および管理 (25-30%)
-- チームの構成と管理 (20-25%)
+- Teamsの設定と管理(20-25%)
 - ワークロード統合の構成と管理 (15-20%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-301
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-301
 courses:
 - uid: course.ms-300t01
 - uid: course.ms-300t02
@@ -48,24 +51,28 @@ relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Teamwork Administrator Associate。'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Teamwork Administrator Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

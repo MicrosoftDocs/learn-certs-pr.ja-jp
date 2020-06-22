@@ -5,20 +5,32 @@ metadata:
   description: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
 uid: exam.mo-200
 displayName: MO-200
-summary: この認定資格を取得した個人は、製品について約 150 時間の指導と実地経験を持ち、業界におけるアソシエイト レベルの能力を証明し、そしてジョブ マーケットに参入する準備ができています。彼らは Excel の主要機能の正しい適用を実演し、独立してタスクを完了することができます。
-subTitle: この試験では、ワークシートとワークブックの作成と管理、セルとレンジの作成、テーブルの作成、数式と関数の適用、およびチャートとオブジェクトの作成の基礎に関する能力を測定します。試験には、複数のシートを含むブックを作成および編集し、グラフィック要素を使用してデータを視覚的に表現する能力も含まれます。ブックの例としては、プロフェッショナルな外観の予算、財務表、チームの業績チャート、売上請求書、データ入力ログなどがあります。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  試験には、複数のシートを含むブックを作成および編集し、グラフィック要素を使用してデータを視覚的に表現する能力も含まれます。ブックの例としては、プロフェッショナルな外観の予算、財務表、チームの業績グラフ、売上請求書、データ入力ログなどがあります。受験者は、Excel の主要な機能の正しい適用を実証し、タスクを個別に完了することが期待されます。
+subTitle: この試験では、ワークシートとワークブックの作成と管理、セルとレンジの作成、テーブルの作成、数式と関数の適用、およびチャートとオブジェクトの作成の基礎に関する能力を測定します。試験には、複数のシートを含むブックを作成および編集し、グラフィック要素を使用してデータを視覚的に表現する能力も含まれます。ブックの例としては、プロフェッショナルな外観の予算、財務表、チームの業績グラフ、売上請求書、データ入力ログなどがあります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- nl
+- fr
+- de
+- id-id
+- ko
+- pt-br
+- es
+- it
 levels:
 - intermediate
 skills:
 - ワークシートおよびワークブックの管理 (10-15%)
-- データ アクセスと保護の管理 (20-25%)
+- データ セルおよび範囲の管理(20-25%)
 - 表および表データの管理 (15-20%)
 - 数式と関数を使用した操作の実行 (20-25%)
 - チャートの管理 (20-25%)
@@ -32,14 +44,15 @@ relatedCertifications:
     uid: certification.mos-excel-2019
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

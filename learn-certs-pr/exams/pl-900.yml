@@ -7,12 +7,10 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月1日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 7 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
-  この試験の受験者は、ビジネス プロセスを自動化し、データを分析してビジネス インサイトを形成し、シンプルなアプリ体験を得てより効果的に行動することによって、生産性の向上を目指すユーザーです。
-
-  この試験では以下をカバーします。以下の Power Platform コンポーネントについて説明します； Power Apps 、 Power BI 、 Microsoft Automate、 Common Data Service (CDS)、コネクタ、 および AI Builder； Microsoft 365 、 Dynamics 365 、 Microsoft Azure 、およびサードパーティのサービスを対象としたクロス クラウド シナリオについて説明します； Power Platform の利点と機能を特定します。 Power Platform の基本的な機能とビジネス価値コンポーネントを特定し、 Microsoft Automate、 Power BI 、 AI Builder を使用してシンプルなソリューションを実装し、コードのない環境における基本的なアプリケーションを作成します。
+  この試験の受験者は、Power Platform の機能を理解し、Power Automate で基本的なビジネス プロセスを自動化し、Power BI で基本的なデータ分析を実行してビジネス インサイトを生成し、シンプルな Power App キャンバス アプリを作成することでより効果的に行動し、コードを使用せずに強力なチャット ボットを作成することで、生産性の向上を目指すユーザーです。
 subTitle: この試験では、 Power Platform のビジネス価値を理解する能力、 Power Platform のコア コンポーネントを理解する能力、 Power BI のビジネス価値を実証する能力、および Microsoft Automateのビジネス価値を実証する能力を評価します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -27,12 +25,13 @@ providers:
 levels:
 - beginner
 skills:
-- 本試験の内容は、2020年5月1日に更新されます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
-- Power Platform のビジネス価値を理解する (20-25%)
-- Power Platform のコアコンポーネントを理解する (20-25%)
-- Power BI のビジネス価値を実証する (15-20%)
-- Power Apps のビジネス価値を実証する (20-25%)
-- Power Automate のビジネス価値を実証する (15-20%)
+- この試験の内容は、2020 年 5 月 7 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- Power Platform のビジネス価値について説明する (20-25%)
+- Power Platform のコア コンポーネントを特定する (15-20%)
+- Power BI のビジネス価値について説明する (10-15%)
+- Power Apps のビジネス価値について説明する (15-20%)
+- Power Automate のビジネス価値について説明する (15-20%)
+- Power Virtual Agents のビジネス価値を実証 (10-15%)
 roles:
 - developer
 products:
@@ -51,7 +50,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

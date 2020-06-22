@@ -16,7 +16,6 @@ summary: |-
 subTitle: '本試験では、 以下の技術的タスクを実行する能力を査定します。 Azure インフラストラクチャの実装と監視、管理およびセキュリティソリューションの実装、アプリケーションのソリューションの実装、およびデータプラットフォームの実装と管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
 levels:
@@ -24,7 +23,7 @@ levels:
 skills:
 - Azure インフラストラクチャの実装と監視 (50-55%)
 - 管理とセキュリティ ソリューションの実装(25-30%)
-- アプリのソリューションを実装(10-15% )
+- アプリのソリューションを実装( 10 ～ 15% )
 - データプラットフォームの実装と管理 (10-15%)
 roles:
 - solution-architect
@@ -34,13 +33,10 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure Solutions Architect Expert になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

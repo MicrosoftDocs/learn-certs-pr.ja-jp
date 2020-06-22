@@ -1,29 +1,30 @@
 ### YamlMime:Examination
 title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
 metadata:
-  title: '試験 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: '試験 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: >
+summary: |+
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   受験者は、プロフェッショナルな外観の電子メール メッセージの作成と編集、複数のタイム ゾーンにわたる予定表の維持、さまざまな目的や状況のタスクのスケジュール設定を行うことができることが想定されます。受験者は、Outlook 2016 を使用して、プロフェッショナルな文書の強化、予定表の作成、予定のスケジュール設定を行います。アプリケーションの例には、ビルディング リソースの調整、マーケティング キャンペーンのメッセージの送信、スタッフ会議の計画、および会議アクション項目の割り当てが含まれます。
 
-
-  Microsoft Office Specialist (MOS) 2016 認定試験では、MOS 2016 プログラムを使用して、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されています&#58;
-
-  - 通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。
-
-  - MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。
+  Microsoft Office Specialist (MOS) 2016認定試験では、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されていますMOS 2016プログラムを使用して：
+  通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。
+  MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。
 subTitle: 受験者は、プロフェッショナルな外観の電子メール メッセージの作成と編集、複数のタイム ゾーンにわたる予定表の維持、さまざまな目的や状況のタスクのスケジュール設定を行うことができることが想定されます。受験者は、Outlook 2016 を使用して、プロフェッショナルな文書の強化、予定表の作成、予定のスケジュール設定を行います。アプリケーションの例には、ビルディング リソースの調整、マーケティング キャンペーンのメッセージの送信、スタッフ会議の計画、および会議アクション項目の割り当てが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
 - zh-cn
 - zh-tw
+- nl
 - de
 - es
 - fr
@@ -33,7 +34,8 @@ locales:
 levels:
 - intermediate
 skills:
-- Outlook 環境の生産性を管理する（20-25%）
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
+- Outlook 環境の生産性を管理する(20-25%)
 - メッセージの管理 (35-40%)
 - スケジュールの管理 (35-40%)
 - 連絡先とグループの管理 (10-15%)
@@ -46,14 +48,15 @@ relatedCertifications:
     uid: certification.mos-outlook-2016
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

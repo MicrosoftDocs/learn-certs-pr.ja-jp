@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: この認定資格は、2020 年 7 月 17 日頃に利用可能になります。アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
+
+  <div><strong><br/>注意&#58; この認定資格は 2020 年 7 月頃に利用可能になります。</strong></div>
+subTitle: この認定資格は 2020 年 7 月頃に利用可能になります。アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
+levels:
+- intermediate
+skills:
+- ソリューションを設計する
+- ソリューションを作成します
+- データを分析し
+- ソリューションの実装と管理
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+exams:
+- uid: exam.pl-100
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

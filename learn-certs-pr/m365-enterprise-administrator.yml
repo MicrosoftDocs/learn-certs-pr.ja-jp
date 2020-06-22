@@ -2,37 +2,35 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 Enterprise Administratorは、Microsoft 365サービスの評価、計画、移行、展開、および管理に参加します。
+  description: 'Microsoft 365 Enterprise Administratorは、Microsoft 365サービスの評価、計画、移行、展開、および管理に参加します。'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
-  
-  <div style='color&#58; red;'><br/>MCSE Productivity solutions Expert Certification は、 2020年6月30日に終了します。そのため、 MCSE Productivity solutions Expert Certification は、 2020年6月30日以降、Microsoft 365 Certified: Enterprise Administrator Expert Certification の前提条件オプションとして認定されません。(MCSE の終了後 1 年)。</div>
+
+  <div><br/><strong>MCSE Productivity Solutions Expert 認定資格は、2021 年 1 月 31 日に廃止されます。したがって、MCSE Productivity Solutions Expert認定は、2022年1月31日以降（MCSEの廃止後1年）、Microsoft 365 Certified：Enterprise Administrator Expert認定の前提条件オプションとしての資格はありません。</strong></div>
 subTitle: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 levels:
 - advanced
 skills:
 - '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
-- Microsoft 365 services を設計して実装します
-- ユーザーのアイデンティティとロールを管理します
-- アクセスと認証を管理します
-- Office 365 workloads and applications を計画します
-- 最新のデバイス サービスを実装します
-- Microsoft 365のセキュリティと脅威管理を実装します
-- Microsoft 365 のガバナンスとコンプライアンスを管理します
+- Microsoft 365 サービスの設計と実装
+- ユーザー ID とロールの管理
+- アクセスと認証の管理
+- Office 365 のワークロードとアプリケーションの計画
+- 最新のデバイスサービスの実装
+- Microsoft 365 セキュリティと脅威の管理の実装
+- Microsoft 365 のガバナンスとコンプライアンスの管理
 roles:
 - administrator
 type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -63,6 +61,7 @@ resources:
 - title: 資格のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

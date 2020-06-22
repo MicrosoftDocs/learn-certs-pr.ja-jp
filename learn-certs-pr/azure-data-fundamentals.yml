@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Data Fundamentals'
+  description: この認定資格は、2020 年 6 月 8 日頃に利用可能になります。Azure Data Fundamentals は、コア データの概念の基礎知識と、Microsoft Azure データ サービスを使用してそれらを実装する方法を検証します。
+uid: certification.azure-data-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div<strong><div style='color&#58; red>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</font></strong><br/><br/></div>
+
+  Azure Data Fundamentals 認定資格の受験者は、コア データの概念と、Microsoft Azure データ サービスを使用してそれらを実装する方法についての基礎知識を持っている必要があります。  
+
+  この認定は、クラウド内のデータの取り扱いを開始する受験者を対象としています。  
+
+  受験者は、リレーショナル データと非リレーショナル データの概念、およびトランザクションや分析などのさまざまなタイプのデータ ワークロードに精通している必要があります。  
+
+  Azure Data Fundamentals は、Azure Database Administrator Associate や Azure Data Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。  
+
+  <div><br/><strong>注意&#58; この認定資格は、2020 年 6 月 8 日頃に利用可能になります。</strong></div>
+subTitle: この認定資格は、2020 年 6 月 8 日頃に利用可能になります。Azure Data Fundamentals は、コア データの概念の基礎知識と、Microsoft Azure データ サービスを使用してそれらを実装する方法を検証します。
+levels:
+- beginner
+skills:
+- コア データの概念について説明する
+- Azure でリレーショナル データを操作する方法について説明する
+- Azure で非リレーショナル データを操作する方法について説明する
+- Azure の分析ワークロードについて説明する
+roles:
+- data-engineer
+- database-administrator
+type: fundamentals
+products:
+- azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
+exams:
+- uid: exam.dp-900
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

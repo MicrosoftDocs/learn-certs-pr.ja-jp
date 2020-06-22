@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Azure Administration for AWS SysOps
+metadata:
+  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+uid: course.az-010t00
+courseNumber: 'AZ-010T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-103
+- uid: exam.az-104
+summary: |-
+  この 2 日間のコースは、Azure と AWS の違い、および Azure の管理方法に興味がある AWS Sysops 管理者を対象としています。ワークショップの主なトピックは、Azure Administration、Azure Networking、Azure Compute、Azure Storage、Azure Governance です。このワークショップでは、講義と実践的な実践演習、ディスカッション/レビューを組み合わせます。ワークショップでは、受講者はコースで説明されている主な機能を実証するエンドツーエンドのアーキテクチャを構築できるようになります。
+
+  #### 視聴者プロフィール
+  このコースの対象者は、AWS Sysops Administrator Associate または同等のユーザーです。対象者は、AWS の導入、管理、運用で 1〜2 年の経験を有する方です。このコースを受講している受講者は、Azure と AWS の違い、および Azure の管理方法に興味があります。受講者は、AZ-103 Microsoft Azure Administrator 認定資格試験、または AZ-900 Azure Fundamentals 試験の受験にも興味を持つかもしれません。
+prerequisitesSection: |-
+  実績のある AWS Sysops は、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、アイデンティティ ソリューション、ネットワーキングの経験をもとにこのコースを開始します。具体的には、受講者は以下を有する必要があります。
+  - ヘルプ ページを使用して適切なパラメーターとコマンド構造を決定するなど、CLI コマンドの作成方法に関する実用的な知識。
+  - 仮想ネットワークの概念、Domain Name System (DNS)、仮想プライベート ネットワーク (VPN) 、ファイアウォール、ゲートウェイ、および暗号化技術についての理解。
+  - 仮想マシン、それらの使用方法、CPU パフォーマンスやディスクなどの構成オプションについての理解。
+  - ストレージ アカウント、BLOB、ファイル共有、ディスク タイプなどの仮想ストレージの概念についての理解。
+  - ロール ベースのアクセス制御、ID 管理、ID 保護を含む、ガバナンスの概念についての理解。
+outlineSection: |-
+  ### Module 1&#58; Azure 管理
+  このモジュールでは、Azure の管理に必要なツールと主要な概念について学びます。トピックには以下が含まれます。Resource Manager、Resource Group、Azure Portal、Azure CLI、Azure Template、Cloud Shell、Azure Marketplace、Azure PowerShell。
+
+
+  ### モジュール 2&#58;  Azure Networking
+  このモジュールでは、Azure ネットワーク機能について学習します。トピックには以下が含まれます&#58; Azure Regions、Virtual Networks and Subnets、IP Addressing、Network Security Groups、Virtual Network Peering、VNet-to-VNet Connections、ExpressRoute、Load Balancers、および Network Watcher。
+
+
+  ### モジュール 3&#58; Azure コンピューティング
+  このモジュールでは、Azure 仮想マシンの構成と監視について学習します。トピックには以下が含まれます&#58; Azure Virtual Machines、Creating Virtual Machines、Virtual Machine Sizes、Virtual Machine Disks、Availability Zones、Availability Sets、Windows VM Connections、Linux VM Connections、Azure Monitor、および Azure Alerts。
+
+
+  ### Module 4&#58; Azure Storage
+  このモジュールでは、Azure ストレージの機能と実装について学習します。トピックには以下が含まれます&#58; Storage Accounts、Blob Storage、Blob Performance Tiers、File Shares、File Sync、Data Box、Content Delivery Network、Shared Access Signatures、および Service Endpoints。
+
+
+  ### モジュール 5&#58; Azure Identity
+  このモジュールでは、Azure ID ソリューションについて学習します。トピックには以下が含まれます&#58; Azure Domains、Role-based Access Control、Azure Active Directory、Multi-Factor Authentication、Azure AD Identity Protection、および Azure Policy。
+

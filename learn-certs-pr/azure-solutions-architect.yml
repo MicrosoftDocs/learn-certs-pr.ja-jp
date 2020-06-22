@@ -2,23 +2,32 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Microsoft Azure Solutions Architect は、Azure 上で実行されるソリューションを設計できるように、コンピューティング、ネットワーク、ストレージ、およびセキュリティに関する専門知識を持っている必要があります。
+  description: 'Azure Solution Architects は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションを設計および実装します。'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Microsoft Azure Solutions Architect は、Azure 上で実行されるソリューションを設計できるように、コンピューティング、ネットワーク、ストレージ、およびセキュリティに関する専門知識を持っている必要があります。
-subTitle: Microsoft Azure Solutions Architect は、Azure 上で実行されるソリューションを設計できるように、コンピューティング、ネットワーク、ストレージ、およびセキュリティに関する専門知識を持っている必要があります。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Azure Solutions Architect Expert 認定資格の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。
+
+  このロールの責任には、利害関係者に助言し、ビジネス要件を安全でスケーラブルで信頼性の高いクラウド ソリューションに変換することが含まれます。
+
+  Azure Solutions Architect は、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します
+
+  この認定資格の受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ管理、予算編成、ガバナンスなど、IT 運用のさまざまな側面にわたる高度な経験と知識を持っている必要があります。このロールは各領域での決定がソリューション全体に与える影響を管理する必要があります。さらに、このロールには Azure ナレッジ ドメイン (管理、開発、DevOps) の少なくとも 1 つに習熟している必要があります。
+subTitle: Azure Solution Architects は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションを設計および実装します。
 levels:
 - advanced
 skills:
-- インフラストラクチャの配置と設定
-- 負荷分散とセキュリティーの実装
+- インフラのデプロイと設定
+- ワークロードとセキュリティの実装
 - アプリの作成とデプロイ
 - 認証とセキュアなデータの実装
-- クラウド用とAzureストレージ用の開発
+- クラウド用およびAzure用ストレージの開発
 - 負荷分散必須要件の特定
 - アイデンティティとセキュリティの設計
 - データプラットフォームソリューションの設計
-- 事業継続戦略の設計
+- ビジネス継続性戦略の設計
 - 展開、移行、統合の設計
 - インフラストラクチャ戦略の設計
 roles:
@@ -71,21 +80,22 @@ exams:
 - uid: exam.az-300
 - uid: exam.az-301
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Solutions Architect Expert。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
-- title: トレーニングおよび認定ガイド
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

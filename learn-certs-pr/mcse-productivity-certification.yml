@@ -7,8 +7,8 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div><strong>この認定資格は 2021 年 1 月 31 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。終了日前に取得した認定資格は、今後も <a href='https://www.microsoft.com/learning/dashboard.aspx'>認定資格ダッシュボード</a>におけるトランスクリプトに表示されます。<a href='/learn/certifications/retired-certifications'>停止されたすべての認定資格を閲覧する</a>こともできます。</strong><br/><br/></div>
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本認証は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。その日以降、この認定資格を取得することはできなくなります。詳細については、<a href='/learn/certifications/retired-certifications'>今後廃止される認証をご確認ください</a>。</strong><br/><br/></div>
   </div>
 
   この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) になるための要件の 1 つを満たすために使用できます。
@@ -26,7 +26,7 @@ subTitle: この認定資格は、企業をクラウドに移行させ、ユー�
 levels:
 - advanced
 skills:
-- なし
+- none
 roles:
 - administrator
 type: role-based
@@ -47,7 +47,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

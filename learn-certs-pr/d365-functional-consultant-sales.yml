@@ -2,23 +2,26 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: Microsoft Dynamics 365  Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
+  description: 'Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。'
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft Dynamics 365  Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
-subTitle: Microsoft Dynamics 365  Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
+subTitle: Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
 levels:
 - intermediate
 skills:
-- 発見、計画、と分析を実行する
+- 発見、計画、および分析を実行する
 - ユーザー エクスペリエンスデザインを管理する
-- エンティティとデータを管理する
+- エンティティおよびデータを管理する
 - セキュリティの実装
 - 統合を実装する
-- ソリューションの展開とテストを実行する
+- ソリューションの展開およびテストを実行する
 - 構成を実行する
-- コア販売エンティティを管理する
-- 販売エンティティを管理する
+- コア セールス エンティティの管理
+- セールス エンティティの管理
 roles:
 - functional-consultant
 type: role-based
@@ -26,10 +29,7 @@ products:
 - dynamics
 - dynamics-sales
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-210t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -51,20 +51,21 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Dynamics 365 Sales Functional Consultant Associate。'
+  description: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

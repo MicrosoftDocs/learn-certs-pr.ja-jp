@@ -8,26 +8,26 @@ displayName: MB-400
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月22日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 22 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験の受験者は、 Dynamics 365 の Microsoft Power Apps モデル駆動型アプリケーションで作業して、Dynamics 365 の実装を設計、開発、セキュリティ保護、拡張する開発者です。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実行します。
 
   受験者は、Dynamics 365 の Power Apps モデル駆動型アプリケーションに関する高度な知識を身に付けておく必要があります。これには、カスタマイズ、構成、統合、拡張性、および境界と制約についての詳細な理解が含まれます。受験者は、 Dynamics 365 の Power Apps モデル駆動型アプリケーションの DevOps プラクティスについて基本的に理解している必要があります。受験者は、データを公開、保存、レポートする必要があります。
 
-  受験生には、 JavaScript 、 typescript 、 C# 、 HTML 、 .NET 、 Microsoft Azure 、 Office 365 、 RESTful Web Services、 ASP.NET 、 BI などを含む開発経験が必要です。
+  受験生には、 JavaScript 、 typescript 、 C# 、 HTML 、 .NET 、 Microsoft Azure 、 Office 365 、 RESTful Web Services、 ASP.NET 、 Power BI などを含む開発経験が必要です。
 subTitle: 'この試験では、技術設計の作成、 Common Data Service ( CDS) の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年5月22日に更新されます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
+- この試験の内容は、2020 年 5 月 22 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - Technical Design を作成する(10-15%)
-- Common Data Service (CDS) を設定する(15-20%)
+- Common Data Service  を設定する(15-20%)
 - Power Apps を作成および設定する(10-15%)
 - ビジネス プロセス自動化を設定する (10-15%)
 - ユーザー エクスペリエンスを拡張する(15-20%)
@@ -52,12 +52,12 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate のトレーニングリソースを探す。'
+  description: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Microsoft Azure solutions for AWS developers
+metadata:
+  title: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+  description: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+uid: course.az-020t00
+courseNumber: 'AZ-020T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+- uid: exam.az-204
+summary: |-
+  Microsoft Azure でエンドツーエンドのソリューションを準備する方法を AWS (Amazon Web Services) 開発者に教えるために設計された 3 日間のコース。このコースでは、Azure App Service Web App ソリューションと Azure Functions を構築し、BLOB または Cosmos DB ストレージをソリューションで使用し、ユーザー認証と承認を含む安全なクラウド ソリューションを実装し、API 管理を実装し、イベントとメッセージ ベースのソリューションを開発し、 Azure ソリューションを監視、トラブルシューティング、および最適化します。AWS とは異なる機能やタスクにさらに焦点を当てながら、開発者が Azure サービスを使用する方法と、Azure サービスを使用してホストされるアプリケーションを開発する場合の意味を学びます。
+
+  #### 視聴者プロフィール
+  このコースの受講者は、Azure 開発に関心のある経験豊富な AWS 開発者です。
+prerequisitesSection: |-
+  受講者は、1-2 年の専門能力開発の経験と AWS の経験を持っている必要があります。受講者は、Azure 対応言語でプログラムできる必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; Azure App Service Web Apps の作成
+  受講者は、 Azure App Service プラットフォームで Web アプリケーションを構築する方法について学びます。また、プラットフォームの機能と、 App Service プラットフォームの作成、構成、拡張、セキュリティ保護、展開などの方法について学びます。
+  #### レッスン
+  - Azure App Service の中心概念
+  - Azure App Service Web App を作成する
+  - App Service アプリの構成と監視
+  - App Service アプリのスケーリング
+  - Azure App Service のステージング環境
+
+
+  ### モジュール 2&#58; Azure Functions を実装する
+  本モジュールでは、Functions アプリの作成、およびアプリにトリガーと入出力を統合する方法について説明します。
+  #### レッスン
+  - Azure Functions の概要
+  - Azure Functions の開発
+  - Durable Functions の実装
+
+
+  ### モジュール 3&#58; blob ストレージを使用するソリューションの開発
+  受講者は、 Azure Blob ストレージの仕組み、ホット / コールド / アーカイブ blob ストレージライフサイクルによるデータの管理方法、および Azure Blob ストレージ クライアント ライブラリを使用してデータとメタデータを管理する方法について学びます。また、ARM (Azure Resource Manager) テンプレートの作成方法も学習します。
+  #### レッスン
+  - Azure Blob storage の中心概念
+  - Azure Blob ストレージ ライフサイクルの管理
+  - Azure Blob ストレージの使用
+  - Azure Resource Manager テンプレートを作成
+
+
+  ### モジュール 4&#58; Cosmos DB ストレージを使用するソリューションの開発
+  受講者は、 Cosmos DB の構築方法、およびデータの一貫性の管理方法について学びます。受講者はまた、 Azure Portal と .NET SDK を組み合わせて使用することにより、 Cosmos DB アカウントを作成し、データベース、コンテナおよびアイテムを作成する方法についても学びます。
+  #### レッスン
+  - Azure Cosmos DB の概要
+  - Azure Cosmos DB data structure
+  - Azure Cosmos DB のリソースとデータを使用した作業
+  - 電子メールテンプレートの作成と展開
+
+
+  ### モジュール 5&#58; Azure Resource Manager (ARM) テンプレートを作成および展開する
+  受講者は、Azure Resource Manager テンプレートを作成および展開する方法を学習します。これを使用して、新たな展開を高速化し、リソース間の一貫性を作成できます。
+  #### レッスン
+  - 電子メールテンプレートの作成と展開
+
+
+  ### モジュール 6&#58; ユーザー認証と承認の実装
+  受講者は、 認証を管理してリソースへアクセスするために、Microsoft Identity Platform v2.0 を活用する方法を学びます。受講者はまた、 ユーザーを認証して Azure に保存されている情報を取得するために、Microsoft 認証ライブラリと Microsoft Graph を使用する方法について、および Shared Access Signatures を使用する方法と時機についても学びます。
+  #### レッスン
+  - Microsoft ID プラットフォームの実装
+  - Microsoft 認証ライブラリを実装する
+  - Azure App Configuration 使用によるアプリ構成データの保護
+
+
+  ### モジュール 7&#58; セキュア クラウド ソリューションの実装
+  本モジュールでは、アプリケーションがリソースにアクセスするために使用する情報 ( 重要事項、秘密、証明書 ) を保護する方法について説明します。また、アプリケーション構成情報の保護についても説明します。
+  #### レッスン
+  - KeyVault API 使用による重要事項、秘密および認定の管理
+  - Azure リソースの管理対象 ID を実装する
+  - Azure App Configuration 使用によるアプリ構成データの保護
+
+
+  ### モジュール 8&#58; API 管理の実装
+  受講者は、 API の公開方法、 API によって共有される情報の管理ポリシーの作成方法、および Azure API Management サービスの使用による API へのアクセスの管理方法について学びます。
+  #### レッスン
+  API管理を実装する
+  - API ポリシーの定義
+  - API の保護
+
+
+  ### モジュール 9&#58; イベント ベースのソリューションを開発する
+  受講者は、イベントベースのアーキテクチャを使用してアプリケーションの構築方法について学びます。
+  #### レッスン
+  - Azure Event Grid を実装する
+  - Azure Event Hubs を実装する
+  - Azure Notification Hub を実装する
+
+
+  ### モジュール 10&#58; メッセージ ベースのソリューションを開発する
+  受講者は、メッセージベースのアーキテクチャを使用してアプリケーションの構築方法について学びます。
+  #### レッスン
+  - Azure Service Bus を使用するソリューションを実装する
+  - Azure Queue Storage クエリを使用するソリューションを実装する
+
+
+  ### モジュール 11&#58; Azureソリューションの監視および最適化
+  このモジュールは、テレメトリ用にコードをインストルメントする方法を受講者に教えます。
+  #### レッスン
+  - Azure Application Insights のアプリケーション
+  - モニタリング用アプリの使用
+

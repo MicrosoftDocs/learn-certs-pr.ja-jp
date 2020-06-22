@@ -7,16 +7,16 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月28日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 28 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験の受験者は、その組織の Microsoft Teams 管理者です。Microsoft Teams 管理者 は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teamsの Office 365 ワークロードを構成、展開、および管理します。
 
-  Teams管理者は、Teamsのチャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を計画、展開、管理できる必要があります。Teams管理者は、 Skype for Business からTeamsへのアップグレードも担当します。
+  Teams管理者は、Teamsのチャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を計画、展開、管理できる必要があります。Teams Administrator は、 Skype for Business からTeamsへのアップグレードも担当します。
 
-  Teams 管理者はテレフォニー エンジニアと協力して、高度な音声機能を Microsoft Teams に統合します。このロールは、直接ルーティングの設定、コールルーティングの設定、またはテレフォニーの統合については責任を負いません。Teams管理者は、セキュリティとコンプライアンス、メッセージング、ネットワーク、 ID 、デバイスなど、他のワークロード管理者の役割と連携することができます。
+  Teams 管理者はテレフォニー エンジニアと協力して、高度な音声機能を Microsoft Teams に統合します。このロールは、直接ルーティングの設定、コールルーティングの設定、またはテレフォニーの統合について責任を負いません。Teams管理者は、セキュリティとコンプライアンス、メッセージング、ネットワーク、 ID 、デバイスなど、他のワークロード管理者の役割と連携することができます。
 
-  この試験の受験生は、 PowerShell を使用したTeams設定の管理に習熟している必要があります。Teams管理者は、 SharePoint 、 OneDrive for Business 、 Exchange 、 Azure AD 、 Office 365 グループなど、アプリケーションやサービスとの統合ポイントを基本的に理解しています。Teams管理者は、外部アプリとサービスを統合する方法を理解しています。
+  この試験の受験生は、 PowerShell を使用したTeams設定の管理に習熟している必要があります。Teams Administrator は、 SharePoint、 OneDrive for Business、 Exchange、 Azure AD、 およびOffice 365 グループなどを含むがこれに限定されることなく、アプリケーションおよびサービスとの統合ポイントを基本的に理解しています。Teams Administrator は、外部アプリとサービスを統合する方法を理解しています。
 subTitle: 'この試験では、 Microsoft Teams 環境の計画と構成、チャット、通話、会議の管理、Teams とアプリケーション ポリシーの管理など、技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年5月28日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は、2020 年 5 月 28 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - Microsoft Teams Environment を計画、構成する (45-50%)
 - チャット、通話、会議を管理する (30-35%)
 - Teams および App Policies を管理する (20-25%)
@@ -46,12 +46,12 @@ relatedCertifications:
     uid: certification.m365-teams-administrator-associate
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Teams Administrator Associateになるための教材を探しましょう。'
+  description: 'Microsoft Certified: Teams Administrator Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

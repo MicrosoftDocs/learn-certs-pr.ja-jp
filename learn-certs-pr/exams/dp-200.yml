@@ -6,11 +6,8 @@ metadata:
 uid: exam.dp-200
 displayName: DP-200
 summary: |-
-  <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 3 月 31 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
-  </div>
-
+  
   この試験の受験生は、業務関係者と強調して、Azureデータサービスを使用したデータソリューションを特定し、データ必須要件に合わせる必要のあるMicrosoft Azureデータエンジニアです。
 
   Azure データ エンジニアは、データ ストレージ サービスのプロビジョニング、ストリーミング データとバッチ データの取り込み、データの変換、セキュリティ要件の実装、データ保持ポリシーの実装、パフォーマンスボトルネックの特定、外部データ ソースへのアクセスなど、データ関連の実装タスクを担当します。
@@ -29,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 3 月 31 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。
 - '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - データ記憶域ソリューションの実装 (40-45%)
 - データ処理法の管理と開発(25-30%)
@@ -67,7 +63,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -14,7 +14,7 @@ ms.author: micsullivan
 今後 12 か月で終了が予定されている試験をテクノロジ別に一覧表示で探索しましょう。(次の情報は変更される可能性があります。)
 
 | 2021 年 1 月 31 日廃止 | |
-|--- |--- |
+| --- | --- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
 | [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016 |  |
@@ -66,19 +66,23 @@ ms.author: micsullivan
 
 | 2020 年 8 月 31 日廃止 | |
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
 | 2020 年 6 月 30 日廃止 | |
-|--- |--- |
+| --- | --- |
 | [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
-## 最近終了した試験
+##最近終了した試験
 
 参考として、昨年終了した試験には、12 ヶ月間有効な試験の詳細ページへのリンクが含まれます。
 
-| ITPro/開発者| | |
-|--- |--- |--- |
+| ITPro/Developer| | |
+| --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019 年 6 月 30 日
@@ -132,15 +136,15 @@ ms.author: micsullivan
 <br/>
 
 | Microsoft Dynamics | | |
-|--- |--- |--- |
+| --- | --- | --- |
 | [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 2019 年 12 月 31 日
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019 年 12 月 31 日
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2019 年 12 月 31 日
-| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019 年 7 月 31 日
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019 年 12 月 31 日
 | MB2-709 | Microsoft Dynamics Marketing | 2017 年 12 月 31 日
 | [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 2019 年 12 月 31 日
-| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 2019 年 7 月 31 日
-| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019 年 1 月 31 日
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 2019 年 12 月 31 日
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019 年 12 月 31 日
 | [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx) | Microsoft Dynamics CRM 2016 Sales | 2019 年 12 月 31 日
 | [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx) | Microsoft Dynamics CRM 2016 Customer Service | 2019 年 12 月 31 日
 | [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 2019 年 6 月 30 日
@@ -155,10 +159,10 @@ ms.author: micsullivan
 | [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 2019 年 8 月 31 日
 | [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 2019 年 8 月 31 日
 
-## 他の終了済み試験
+##他の終了済み試験
 
-| ITPro/開発者 | | |
-|--- |--- |--- |
+| ITPro/Developer | | |
+| --- | --- | --- |
 | 70-086 | Implementing and Supporting Microsoft Systems Management Server 2.0 | 2008
 | 70-089 | Designing, Implementing, and Managing Microsoft Systems Management Server 2003 | 2010 年 10 月 31 日
 | 70-123 | Planning, Implementing, and Maintaining a Software Asset Management (SAM) Program | 2010 年 10 月 31 日
@@ -168,7 +172,7 @@ ms.author: micsullivan
 | 70-177 | TS: Microsoft Project Server 2010, Configuring | 2015 年 7 月 31 日
 | 70-178 | TS: Managing Projects with Microsoft Project 2010 | 2015 年 7 月 31 日
 | 70-181 | TS: Windows Embedded Compact 7 | 2013 年 7 月 31 日
-|70-210 | Installing, Configuring, and Administering Microsoft Windows 2000 Professional | 2008
+| 70-210 | Installing, Configuring, and Administering Microsoft Windows 2000 Professional | 2008
 | 70-214 | Implementing and Administering Security in a Microsoft Windows 2000 Network | 2008
 | 70-215 | Installing, Configuring, and Administering Microsoft Windows 2000 Server | 2008
 | 70-216 | Implementing and Administering a Microsoft Windows 2000 Network Infrastructure | 2008
@@ -401,7 +405,7 @@ ms.author: micsullivan
 | 74-674 | Delivering Business Value Planning Services | 2015 年 7 月 31 日
 | 74-675 | Microsoft Response Point, Configuring | 2011 年 6 月 30 日
 | 74-676 | TS: Fast Enterprise Search Platform, Developing | 2012 年 7 月 31 日
-| 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017 年 1 月 31 日
+| 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017 年 12 月 31 日
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013 年 7 月 31 日
 | 74-697 | OEM Preinstallation | 2016 年 1 月 31 日
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010 年 10 月 31 日
@@ -416,7 +420,7 @@ ms.author: micsullivan
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014 年 1 月 1 日
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014 年 1 月 1 日
 | 88-969 | Lync Server 2010 Lab Exam | 2014 年 1 月 1 日
-| 88-971 | SQL Server 2008 Microsoft Certified Master：Lab Exam | 2013 年 12 月 31 日
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013 年 12 月 31 日
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014 年 1 月 1 日
 | 98-362 | Windows Development Fundamentals | 2014 年 7 月 31 日
 | 98-363 | Web Development Fundamentals | 2015 年 7 月 31 日
@@ -428,7 +432,7 @@ ms.author: micsullivan
 <br/>
 
 | Microsoft Dynamics | | |
-|--- |--- |--- |
+| --- | --- | --- |
 | MB2-421 | CRM 3.0 Installation & Configuration | 2011 年 4 月 12 日
 | MB2-422 | CRM 3.0 Customization | 2011 年 4 月 12 日
 | MB2-423 | CRM 3.0 Applications | 2011 年 4 月 12 日

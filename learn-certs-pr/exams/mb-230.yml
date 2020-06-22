@@ -6,17 +6,20 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>本試験の内容は、2020年4月に更新されます。以下のスキル査定ドキュメントをダウンロードして、さらに学習しましょう。<br/><br/></div>
-  
-  この試験の受験者は、カスタマーサービス経験を持つ Dynamics 365 の機能コンサルタントです。受験者は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル (実店舗とネット店舗両方をカバー) ソリューションの実現に責任を持ちます。
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  </div>
+
+  この試験の受験者は、カスタマーサービス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル(実店舗とネット店舗両方をカバー)ソリューションの実現に責任を持ちます。
   <br/>
 
-  受験者は Solution Architect とともにサービス管理可視化とレポート提出を設計して実現します。受験者は Dynamics 365 管理者と協調してナレッジベースと Forms Pro を含む Power プラットフォーム コンポーネントを実装してアップグレードします。
-  
-  受験者は、ケースの深い理解、ナレッジ ベース、キュー、エンタイトルメント、Service Level Agreements (SLA),可視化、Unified Service Desk を含む Dynamics 365 Customer Service を通じたユーザーのニーズへの知識の適合への強い適性を持つ必要があります。
-  
-  受験者は製造業の用語、優先順位、基準、手法、カスタマー サービス オペレーション、ベスト プラクティスを理解している必要があります。受験者は、ソリューション アーキテクチャと品質管理だけでなく Dyamics 365 アプリケーション スイートと関連のある Customer Service アプリケーションのロールへの優れた理解が必要です。
-subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します: 構成を実行します。ケースと知識ベースを管理します。キュー、資格、および SLA を管理します。顧客の声を構成します。'
+  受験生はソリューションアーキテクトとともにサービス管理可視化とレポート提出を設計して実現します。受験者は Dynamics 365 管理者と協調してナレッジベースと Forms Pro を含む Power プラットフォーム コンポーネントを実装してアップグレードします。
+
+  受験生は、ケースの深い理解、ナレッジベース、キュー、エンタイトルメント、Service Level Agreements (SLA),可視化、統一サービスデスクを含むDynamics 365 Customer Serviceを通じたユーザーのニーズへの知識の適合への強い適性を持っている必要があります。
+
+  受験生は製造業の用語、優先順位、基準、手法、カスタマーサービスオペレーション、ベストプラクティスを理解している必要があります。受験者は、ソリューション アーキテクチャと品質管理だけでなく Dyamics 365 アプリケーション スイートと関連のある Customer Service アプリケーションのロールへの優れた理解が必要です。
+subTitle: 'この試験では、構成の実行、ケースとナレッジベースの管理、キューや資格およびSLA の管理、 Forms Pro の構成などの技術的タスクを遂行する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
@@ -25,15 +28,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年4月に更新されます。以下のスキル査定ドキュメントをダウンロードして、さらに学習しましょう。
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
-- 構成の実行 (25-30%)
+- この試験の内容は、2020 年 5 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 構成を実行する (25-30%)
 - サポート案件とサポート技術情報の管理 (30-35%)
-- キュー、資格、SLA の管理 (25-30%)
-- カスタマーの声の構成 (15-20%)
+- キュー、資格、および SLA を管理する(25-30%)
+- Forms Proを構成する (15-20%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-customer-service
 exams:
@@ -52,24 +54,25 @@ resources:
 - title: 認定の学習経路
   description: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
-- title: トレーニングおよび認定ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日(月曜日から金曜日)以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 特別な設備のリクエスト
-  description: 試験に特別な設備をリクエストする場合の詳細をご覧ください。
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよく寄せられる質問を確認してください。
+  description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

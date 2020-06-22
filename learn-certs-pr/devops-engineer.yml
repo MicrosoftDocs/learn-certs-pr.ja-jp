@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Microsoft Certified: DevOps Engineer Expert'
+  description: 'Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。'
+uid: certification.devops-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
+subTitle: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
+levels:
+- advanced
+skills:
+- DevOps 戦略を設計する
+- DevOps 開発プロセスを実装する
+- 継続的インテグレーションの実装
+- 継続的デリバリーの実装
+- 依存性管理の実装
+- アプリケーションインフラストラクチャの実装
+- 継続的フィードバックの実装
+roles:
+- devops-engineer
+type: role-based
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
+courses:
+- uid: course.az-400t00
+prerequisites:
+- uid: certification.azure-administrator
+  isOptional: false
+- uid: certification.azure-developer
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
+exams:
+- uid: exam.az-400
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: DevOps Engineer Expert として認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

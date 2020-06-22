@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Microsoft OneNote 2013
+metadata:
+  title: 'Exam 77-421: Microsoft OneNote 2013'
+  description: 'Exam 77-421: Microsoft OneNote 2013'
+uid: exam.77-421
+displayName: 77-421
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この Microsoft OneNote 2013 試験の受験者は、OneNote 環境に関する基礎知識を持ち、独力でタスクを完了できる必要があります。対象者は OneNote 2013 の主な機能の正しい使い方を理解しており、デモンストレーションを実行できる必要があります。
+
+  受験者はさまざまな目的や状況に応じてノートブックを作成、編集、共有できます。OneNote をデジタル ノートブックとして使用して、作業を円滑化し、他の Office 2013 アプリケーションと統合します。受験者は、OneNote 2013 の機能を使用して整理および共同作業を効率的に行います。ノートブックの例としては、講義メモ、議事録、イベント企画、タスクの一覧などがあります。受験者の役割としては、学生、講師、管理スタッフ、社内チーム、プロジェクト マネージャーなどが想定されます。
+subTitle: この Microsoft OneNote 2013 試験の受験者は、OneNote 環境に関する基礎知識を持ち、独力でタスクを完了できる必要があります。対象者は OneNote 2013 の主な機能の正しい使い方を理解しており、デモンストレーションを実行できる必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkE
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-421&examname=Microsoft%20OneNote%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-421
+locales:
+- en
+- nb
+levels:
+- beginner
+skills:
+- OneNote 環境の管理 (25–30%)
+- 他のユーザーとの共有および共同作業 (15-20%)
+- メモの整理および理解 (20-25%)
+- OneNote コンテンツの編集およびリンク (25-30%)
+roles:
+- business-user
+products:
+- office-onenote
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

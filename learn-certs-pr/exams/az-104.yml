@@ -5,7 +5,18 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>\r\n  \r\nAzure 管理者は、クラウド環境でアイデンティティ、ガバナンス、ストレージ、計算、仮想ネットワークを実装、管理および監視します。Azure 管理者は、必要に応じて、リソースのプロビジョニング、サイズ設定、監視、調整を行います。\r\n\r\n受験者は、 最低 6 か月間の Azure 管理の実地経験を持つ必要があります。受験者は、 Azure コアサービス、 Azure ワークロード、セキュリティ、ガバナンスについて十分に理解している必要があります。本試験の受験者は、PowerShell、 Command Line Interface、 および ARM テンプレートを使用する経験を持っている必要があります。\r\n\r\n<div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">こちらをご覧ください</a>。</div>"
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者には、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
+
+  Azure 管理者の責任には、クラウド環境での Id、ガバナンス、ストレージ、コンピューティング、および仮想ネットワークの実装、管理、および監視、さらに必要に応じてリソースのプロビジョニング、サイズ、監視、調整が含まれます。
+
+  Azure 管理者は、多くの場合、組織のクラウド インフラストラクチャの実装に専念するより大きなチームの一部として機能します。
+
+  この試験の受験者は、Azure のコア サービス、Azure ワークロード、セキュリティ、およびガバナンスについて十分に理解しているとともに、Azure の管理に関する少なくとも 6 か月の実務経験が必要です。さらに、このロールには、PowerShell、Azure CLI、Azure ポータル、Azure Resource Manager テンプレートの使用経験が必要です。
+
+  <div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</div>
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。 Azure アイデンティティおよびガバナンスの管理、ストレージの実装と管理、Azure 計算資源の展開と管理、 仮想ネットワークの構成と管理、および Azure 計算資源の監視とバックアップ。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -15,29 +26,25 @@ locales:
 levels:
 - intermediate
 skills:
-- Azure アイデンティティおよびガバナンスの管理(15-20%)
-- ストレージの作成と管理(10-15%)
-- Azure 計算資源の展開と管理(25-30%)
+- Azure アイデンティティおよびガバナンスの管理 (15-20%)
+- ストレージの作成と管理 (10-15%)
+- Azure 計算資源の展開と管理 (25-30%)
 - 仮想ネットワークの構成と管理 (30-35%)
-- Azure 資源の監視とバックアップ(10-15%)
+- Azure 資源の監視とバックアップ (10-15%)
 roles:
 - administrator
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
@@ -45,7 +52,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -12,26 +12,26 @@ ms.author: micsullivan
 
 # Microsoft 認定ラーニング パートナーの受講者に対する Microsoft Learning Azure へのアクセス パス
 
-<div style='color: red;'><font color="red">コロナウイルス (COVID-19) の状況に対応して、Microsoft は最も必要とされる <a href="https://azure.microsoft.com/blog/">Azure 資格の優先順位付</a> けを行っています。このポリシーをサポートするため、コースウェア マーケットプレイスと MCT Azure Pass ポータルから Azure Pass サブスクリプションを無期限に削除しました。</font></div>
+<div style='color: red;'><font color="red">Microsoft WWL は、Azure パスへのアクセスを回復しました。これは非 SLA ソリューションであり、一部の地域ではまだリソースの制限が発生している場合があることにご注意ください。<br/><br/>Azure インターフェイスは、サポートされているリージョンとサイズ、および選択されたリージョンに対して重要な要求があるかどうかに関するフィードバックを提供します。大きな要求やサイズ制限が発生していないサブスクリプションでサポートされている別のリージョンの使用をご検討ください。<br/><br/>SLA に基づく代替ソリューションの詳細については、Azure へのアクセスを現在提供している Authorized Lab Hosters (ALH) にお問い合わせください。</font></div>
 
-最終更新日: **2020 年 3 月 26 日**
+最終更新日: **2020 年 5 月 22 日**
 
 Microsoft では、受講者が Microsoft Official Courses を使用して Azure 関連のコースに登録すると、30 日間無料の Microsoft Azure Pass を提供しています。受講者向けパスは、コースウェア マーケットプレイスを通じて Microsoft 認定ラーニング パートナーのみが取得できます。ただし、MOC コースの購入に直接関連付けられており、MOC コースの注文ごとに 1 つのパスに制限されています。受講者向けパスを取得するためのシステムは、他にはありません。ラーニング パートナーが MOC コースを注文したけれど購入時にコースで利用可能な Azure Pass を選択しなかった場合、パートナーはコースウェア マーケットプレイスに戻り、必要に応じてそのパスを注文することができます。
 
-パートナーのみなさまは、[こちら](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions ) からコースウェア マーケットプレイスを通じて配布される Azure Pass の利用規約を参照してください。。パスは、コースウェア マーケットプレイスで割り当てられてから 90 日間有効です。期限切れのパスは再発行できません
+パートナーのみなさまは、[こちら](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions ) からコースウェア マーケットプレイスを通じて配布される Azure Pass の利用規約を参照してください。パスは、コースウェア マーケットプレイスで割り当てられてから 90 日間有効です。期限切れのパスは再発行できません
 
 非ラーニング パートナーまたは現在のラーニング パートナーと提携していない MCT が実施するコースまたはトレーニングでは、パスを取得したり使用したりすることはできません。コミュニティ コースウェアなどの資格のないコースでは、パスを取得したり使用したりすることはできません。
 
-MCTは、対象となる Azure コース準備のニーズに応じて 1 つのパスをリクエストできます。このようなケースは引き続き発生します。 MCTは、対象となる Azure コース準備パスをリクエストできます (https://vouchers.cloudapp.net/AzurePass/)。ただし、このサービスはいつでも終了することができます。
+MCTは、対象となる Azure コース準備のニーズに応じて 1 つのパスをリクエストできます。このようなケースは引き続き発生します。 MCTは、対象となる Azure コース準備パスをリクエストできます (https://vouchers.cloudapp.net/AzurePass/)、ただし、このサービスはいつでも終了することができます。
 
-ラーニング パートナーと MCT に配布できるパスは限られています。可用性は、Microsoft Azure がサポートされている [国](https://www.windowsazure.com/pricing/faq/) で、提供が継続されている間のみ保証されます。
+ラーニング パートナーと MCT に配布できるパスは限られています。可用性は、Microsoft Azure がサポートされている [国](https://www.windowsazure.com/pricing/faq/ ) で、提供が継続されている間のみ保証されます。
 
 **対象**: 受講者向け Azure パスの対象となるコースは以下のとおりです。ローカライズ版の同等コースも対象となります。
 
-- 10986 スキルを SQL Server 2016 に更新
-- 10998 スキルを SQL Server 2017 に更新
+- 10986 Updating Your Skills to SQL Server 2016
+- 10998 Updating Your Skills to SQL Server 2017
 - 20486 Developing ASP.NET Core/MVC 5 Web Applications
-- 20487 Windows ; Web Services の開発
+- 20487 Windows Azure™ および Web Services の開発
 - 20744 Securing Windows Server 2016
 - 20745 Implementing a Software-Defined DataCenter
 - 20765 Provisioning SQL Databases
@@ -97,7 +97,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
 - AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
-- AZ-900T00 Microsoft Azure Fundamentals (2 Day)
+- AZ-900T00 Microsoft Azure Fundamentals (2 日)
 - DP-050T00 Migrate SQL workloads to Azure
 - DP-060T00 Migrate NoSQL workloads to Azure Cosmos DB
 - DP-070T00 Migrate Open Source Data Workloads to Azure
@@ -122,10 +122,10 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 
 この受講者パスは、Microsoft ラーニング パートナーが利用できるもので、同様の制限を設けて、[一般に公開されている Microsoft Azure トライアル サブスクリプション](https://azure.microsoft.com/pricing/free-trial/) と同様に効果的に機能します。このパスには支払い機器は必要ありません。つまり、パスを有効化するためにクレジット カード情報は必要ありません。以下は、Microsoft ラーニング パートナーおよびインストラクターが使用する Microsoft Learning Azure パス機能の概要です。
 
-| ラーニング パートナー Microsoft Student Azure Pass |
+| Learning Partner Microsoft Student Azure Pass |
 | --- |
 | Microsoft Learning Azure Pass を取得するためにクレジット カード情報は必要ありません |
-| ドルの制限 - パスに関連するドルの制限があります。金額は、問題のコースによって決まります。|
+| 米ドルの制限 - パスに関連する米ドルの制限があります。金額は、問題のコースによって決まります。|
 | 30 日間制限 - 期間の制限は引き続き適用されます。ドルの上限または期間制限に達すると、パスの有効期限が切れます。|
 | 20 Cores |
 | 20 Clouds |

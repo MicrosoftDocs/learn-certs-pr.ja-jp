@@ -5,22 +5,25 @@ metadata:
   description: 'MO-201: Microsoft Excel Expert (Excel and Excel 2019)'
 uid: exam.mo-201
 displayName: MO-201
-summary: エキスパートレベルで Excel の主な機能の正しい適用を実証し、タスクを個別に完了することができます。
-subTitle: この試験では、さまざまな専門的な目的や状況に応じて、専門的なスプレッドシートを作成、管理、配布する能力を評価します。この試験では、Word 環境をカスタマイズしてプロジェクトのニーズに応え、生産性を向上させる能力を評価します。Expert レベルのブックの例としては、ユーザー設定のビジネス テンプレート、複数の軸を持つ財務グラフ、償却表、インベントリ スケジュールなどがあります。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験では、Excel 環境をカスタマイズしてプロジェクトのニーズに応え、生産性を向上させる能力を評価します。Expert レベルのブックの例としては、ユーザー設定のビジネス テンプレート、複数の軸を持つ財務グラフ、償却表、インベントリ スケジュールなどがあります。受験者は、エキスパートレベルで Excel の主要な機能の正しい適用を実証し、タスクを個別に完了することが期待されます。
+subTitle: この試験では、さまざまな専門的な目的や状況に応じて、専門的なスプレッドシートを作成、管理、配布する能力を評価します。この試験では、Excel 環境をカスタマイズしてプロジェクトのニーズに応え、生産性を向上させる能力を評価します。Expert レベルのブックの例としては、ユーザー設定のビジネス テンプレート、複数の軸を持つ財務グラフ、償却表、インベントリ スケジュールなどがあります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE47RTC
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - advanced
 skills:
-- ワークブックのオプションと設定の管理（15-20%）
+- ワークブックのオプションと設定の管理(15-20%)
 - データの管理および書式設定 (20-25%)
-- 高度な数式およびマクロの作成（30-35%）
-- 高度なチャートおよび表の管理（25-30%）
+- 高度な数式およびマクロの作成(30-35%)
+- 高度なチャートおよび表の管理(25-30%)
 roles:
 - business-user
 products:
@@ -31,14 +34,15 @@ relatedCertifications:
     uid: certification.mos-excel-expert-2019
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

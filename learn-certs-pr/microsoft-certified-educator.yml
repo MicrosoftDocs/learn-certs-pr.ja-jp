@@ -5,16 +5,15 @@ metadata:
   description: Microsoft Certified Educator
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   マイクロソフト認定エデュケーター (MCE) 認定は、エデュケーターが学生にカスタム個別の学習体験を提供するために必要な、グローバル エデュケーターのテクノロジ リテラシーに関するコンピテンシーを身に付けていることを証明します。
-
   MCE 認定は、研修中のエデュケーター、教育大学の教職員、および現職のエデュケーターに適しています。
-
 
   マイクロソフトから提供されている包括的な e ラーニング カリキュラムである21CLDは、この厳格な試験に対する準備に役立ちます。
 
-
-  **注意** マイクロソフト認定エデュケーター試験では、教育者が特定のテクノロジ ツールの使用に習熟しているかどうかではなく、エデュケーターが 6 つの異なるコンテンツ分野におけるテクノロジ ツールの適用方法を理解しているかどうかを評価します。特定のマイクロソフト製品およびテクノロジについて教育する認定の取得の詳細については、[Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) のページをご覧ください。.
+  注意 マイクロソフト認定エデュケーター試験では、教育者が特定のテクノロジ ツールの使用に習熟しているかどうかではなく、エデュケーターが 6 つの異なるコンテンツ分野におけるテクノロジ ツールの適用方法を理解しているかどうかを評価します。特定の Microsoft 製品およびテクノロジを教えるための認定取得に関する情報をお探しの場合は、[Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) ページにアクセスしてください。
 subTitle: マイクロソフト認定エデュケーター (MCE) 認定は、エデュケーターが学生にカスタム個別の学習体験を提供するために必要な、グローバル エデュケーターのテクノロジ リテラシーに関するコンピテンシーを身に付けていることを証明します。
 levels:
 - advanced
@@ -22,7 +21,7 @@ skills:
 - 学生のコラボレーションを促進する
 - 熟練したコミュニケーションを促進する
 - 自動調節を容易にする
-- 実践時の問題解決とイノベーションを促進する
+- 現実世界の問題解決とイノベーションを容易にする
 - 学生が情報通信ツール（ICT）を容易に利用できるようにする
 - 効果的なエデュケーターとしてICTを活用する
 roles:
@@ -30,6 +29,7 @@ roles:
 type: mce
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlT
 exams:
 - uid: exam.62-193
 resources:
@@ -38,7 +38,8 @@ resources:
   href: https://education.microsoft.com/GetTrained/ITL-Research
 - title: スタディガイド
   description: 試験の準備に使用できるトレーニング資料の確認
-  href: https://aka.ms/MCEStudyGuide
-- title: 試験リプレイ
+  href: http://aka.ms/MCEStudyGuide
+- title: Exam Replay
   description: 今未来を教えるキャンペーンのためのデジタルキット（ポスター、データシート、MCE試験の目標分野）
-  href: https://aka.ms/MCEAssets
+  href: http://aka.ms/MCEAssets
+

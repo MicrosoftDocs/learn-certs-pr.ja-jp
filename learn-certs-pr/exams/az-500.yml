@@ -8,17 +8,23 @@ displayName: AZ-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年5月20日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月29日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。<br/><br/></div>
   </div>
 
-  この試験の受験者は、セキュリティ管理を実施し、セキュリティ体制を維持し、ID およびアクセスを管理し、データ、アプリケーション、およびネットワークを保護する Microsoft Azure セキュリティ エンジニアです。候補者は、さまざまなセキュリティツールを使用して脆弱性を特定および修正し、脅威から保護し、セキュリティインシデントのエスカレーションに対応します。Microsoft Azure のセキュリティ エンジニアとして、受験者はクラウドベースの管理やセキュリティを専門とする大規模チームの一員として機能することが多く、エンドツーエンドのインフラストラクチャの一部としてハイブリッド環境を保護することもあります。
+  この試験の受験者には、セキュリティ制御と脅威保護の実装、ID とアクセスの管理、エンドツーエンド インフラストラクチャの一部としてのクラウド環境とハイブリッド環境でのデータ、アプリケーション、ネットワークの保護に関する専門知識が必要です。
 
-  この試験の受験者は、スクリプト作成や自動化、ネットワーク、仮想化、クラウド N 層アーキテクチャについての深い知識、そしてクラウド機能、Microsoft Azure 製品とサービス、およびその他の Microsoft 製品やサービスに関する知識が必要です。
+  Azure Security Engineer の職務には、セキュリティ体制の維持、さまざまなセキュリティ ツールの使用による脆弱性の特定と修正、脅威保護の実装、セキュリティ インシデントのエスカレーションへの対応が含まれます。
+
+  Azure Security Engineer は、多くの場合、エンドツーエンド インフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に専念する大規模なチームの一部として機能します。
+
+  この試験の受験者は、スクリプト作成と自動化に優れたスキルを持ち、ネットワーキング、仮想化、およびクラウドの N 層アーキテクチャを深く理解し、Azure のクラウド機能と製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要があります。
 subTitle: 'この試験では、ID とアクセスの管理、プラットフォーム保護の実装、セキュリティ運用の管理、データとアプリケーションの安全確保という技術的タスクを遂行する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
@@ -27,11 +33,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年5月20日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- IDとアクセスの管理(20-25%)
+- 本試験の内容は、2020年7月29日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- IDとアクセスの管理 (20-25%)
 - プラットフォーム保護の実装 (35-40%)
 - セキュリティ運用の管理 (15-20%)
-- データおよびアプリケーションの保護(30-35%)
+- データおよびアプリケーションの保護 (30-35%)
 roles:
 - security-engineer
 products:
@@ -57,7 +63,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

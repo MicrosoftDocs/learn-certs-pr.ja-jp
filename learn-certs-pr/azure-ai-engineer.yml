@@ -2,18 +2,20 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
+  description: 'Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
 subTitle: Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
 levels:
 - intermediate
 skills:
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。」'
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - ソリューションの要求を分析する
-- AI ソリューションを設計する
+- AIソリューションの設計
 - Aiソリューションの実装と監視
 roles:
 - ai-engineer
@@ -36,6 +38,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure AI Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -51,3 +59,4 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

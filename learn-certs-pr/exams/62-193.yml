@@ -6,16 +6,19 @@ metadata:
 uid: exam.62-193
 displayName: 62-193
 summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   この試験の受験者は、教室のエデュケーターになる準備をしている人、現在エデュケーターの人、教員訓練または教員養成の大学教員、教育管理者、またはコンピテンシーの検証を提供する他の専門家が含まれます。
 
   MCE&#58; エデュケーターのためのテクノロジーリテラシーの認定試験は、21世紀ラーニング・デザイン(21CLD)フレームワークで測定された、有効かつ信頼できるコンピテンシーの基準となるように意図された中間レベルの試験です。
 subTitle: この試験の受験者は、教室のエデュケーターになる準備をしている人、現在エデュケーターの人、教員訓練または教員養成の大学教員、教育管理者、またはコンピテンシーの検証を提供する他の専門家が含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -27,7 +30,7 @@ locales:
 - pl
 - ja
 - tr
-levels: 
+levels:
 - beginner
 skills:
 - 学生のコラボレーションを促進する
@@ -48,9 +51,10 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

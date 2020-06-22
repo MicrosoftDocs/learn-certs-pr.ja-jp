@@ -13,9 +13,9 @@ summary: |-
 
   2019年5月1日の開始に当たり、Exam AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。
 
-  この試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。
+  この試験の受験生は、ストレージ、セキュリティ、ネットワーキング、コンピューティング クラウド機能にまたがるクラウド サービスを管理する Azure 管理者です。受験生は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービスを推奨します。
 
-  この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
+  この試験の受験生は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
 
   <div style='font-weight&#58; bold;'><br/>NOTE&#58; 注意&#58; この試験に合格すると、次の認定資格を取得できます。&#58; <a href="/learn/certifications/azure-administrator">Microsoft Certified&#58; Azure Administrator Associate</a>.</div>
 subTitle: '2019年5月1日の開始に当たり、Exam AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。この試験では、Azureサブスクリプションとリソースの管理、ストレージの実装と管理、仮想マシン(VM)のデプロイと管理、仮想ネットワークの設定と管理、アイデンティティの管理という技術的なタスクを遂行する能力を測定します。'
@@ -49,6 +49,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
@@ -69,7 +70,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
-  description: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験生は、アプリケーションの強化、カスタムユーザー体験、システム統合、データ変換、カスタムプロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
+  description: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験生は、アプリケーションの強化、カスタム ユーザー体験、システム統合、データ変換、カスタム プロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
-  Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験生は、アプリケーションの強化、カスタムユーザー体験、システム統合、データ変換、カスタムプロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
+  Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験生は、アプリケーションの強化、カスタム ユーザー体験、システム統合、データ変換、カスタム プロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
 subTitle: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。
 levels:
 - intermediate
@@ -20,7 +20,7 @@ skills:
 - 統合を実装する
 - ソリューションの展開およびテストを実行する
 - Technical Design を作成する
-- Common Data Service （CDS）を設定する
+- Common Data Service を設定する
 - Power Apps を作成および設定する
 - ビジネス プロセス自動化を設定する
 - ユーザー エクスペリエンスを拡張する
@@ -56,12 +56,12 @@ exams:
 - uid: exam.mb-400
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate のトレーニングリソースを探す。'
+  description: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

@@ -5,23 +5,37 @@ metadata:
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: この認定資格を取得した個人は、製品について約 150 時間の指導と実地経験を持ち、業界におけるアソシエイト レベルの能力を証明し、そして仕事に取り組む準備ができています 市場。彼らは Word の主要機能の正しい適用を実演し、独立してタスクを完了することができます。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験では、プロフェッショナル並みのレポート、複数コラムのニュースレター、履歴書、およびビジネス用文書を作成および管理する能力が含まれます。受験者は、Word の主要な機能の正しい適用を実証し、タスクを個別に完了することが期待されます。
 subTitle: この試験では、さまざまな目的や状況に合わせて文書を作成および編集することにより、Word の主要な機能を正しく適用する能力が評価されます。この試験では、プロフェッショナル並みのレポート、複数コラムのニュースレター、履歴書、およびビジネス用文書を作成および管理する能力が含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- id-id
+- ko
+- es
+- nl
+- ja
+- ru
+- fr
+- it
+- pt-br
 levels:
 - intermediate
 skills:
 - ドキュメントの管理 (20-25%)
 - テキスト、パラグラフ、セクションの挿入と編集 (20-25%)
-- 表とリストの管理（15-20%)
-- 参考資料の作成と管理（5-10%)
-- グラフィック要素の挿入と設定（15-20%)
+- 表とリストの管理(15-20%)
+- 参考資料の作成と管理(5-10%)
+- グラフィック要素の挿入と設定(15-20%)
 - ドキュメント連携の管理 (5-10%)
 roles:
 - developer
@@ -33,14 +47,15 @@ relatedCertifications:
     uid: certification.mos-word-2019
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

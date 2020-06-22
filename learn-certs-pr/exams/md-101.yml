@@ -1,69 +1,72 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: '試験 MD-101: Managing Modern Desktops'
-  description: '試験 MD-101: Managing Modern Desktops'
+  title: 'Exam MD-101: Managing Modern Desktops'
+  description: 'Exam MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: >-
-  2019 年 3 月 31 日に期限が切れる前に [試験70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定資格を取得できます。この試験の受験者は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験者は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
+  2019 年 3 月 31 日に期限が切れる前に [試験 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。この試験の受験生は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験生は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
   <br/>
-
 
   管理者として、受験者は通常、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装するために、Microsoft 365 Enterprise Administratorと協力します。
 
-  <br/>
-
-
-  受験者は、Microsoft 365のワークロードに精通している必要があり、Windows 10およびWindows以外のデバイスとテクノロジの展開、構成、および保守に精通しており、熟練している必要があります。
-subTitle: "この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: オペレーティングシステムの展開および更新、ポリシーおよびプロファイルの管理、デバイスの管理および保護、アプリおよびデータの管理'2019 年 3 月 31 日に期限が切れる前に [試験70-698] に合格した場合、MD-101 を取得するだけで Modern Desktop 認定資格を取得できます。"
+  受験者は、Microsoft 365 のワークロードに精通している必要があり、Windows 10 および Windows 以外のデバイスとテクノロジの展開、構成、および保守に精通しており、熟練している必要があります。
+subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: オペレーティングシステムの展開および更新、ポリシーおよびプロファイルの管理、デバイスの管理および保護、アプリおよびデータの管理''2019 年 3 月 31 日の有効期限が切れる前に試験 70-698 に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MD-101&examname=試験%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
-- オペレーティングシステムの展開と更新 （15-20%）
-- ポリシーとプロファイルの管理 (35-40%)
-- デバイスの管理と保護 (15-20%)
-- アプリとデータの管理 (25-30%)
+- オペレーティングシステムの展開と更新 (35-40%)
+- ポリシーとプロファイルの管理 (25-30%)
+- デバイスの管理と保護 (20-25%)
+- アプリとデータの管理 (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.md-100
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-100
 courses:
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Modern Desktop Administrator Associate。'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Modern Desktop Administrator Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

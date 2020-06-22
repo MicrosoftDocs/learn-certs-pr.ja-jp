@@ -6,11 +6,14 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 31 日に廃止されました。注意: 試験は中部標準時の午後 11 時 59 分に廃止されます</div>
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験は 2019 年 12 月 31 日に廃止されました。代替試験 MB-901 の受験が可能です。詳細については、MB-901 試験の詳細ページをご覧ください。 <a href="/learn/certifications/exams/mb-901"></a>.</div>
   <br/>
+  </div>
   この試験は、Microsoft Dynamics 365や、Power Platform アプリケーションや、クラウド コンピューティング モデルについての基礎的な知識を実演したい受験者のためにデザインされています。この試験では、Dynamics 365、Power Platform、およびクラウド サービス全般を採用する際の考慮事項と利点について説明します。この試験はまた、Dynamics 365 資格およびトレーニングの前準備として受けることも可能です。
 
-  この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、受験者は、ビジネス シナリオについての基本的理解、および IT プロジェクトにおいてビジネス、法律、およびセキュリティ上の要件に対応した経験があることも必要です。
+  この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、受験生は、ビジネス シナリオについての基本的理解、および IT プロジェクトにおけるビジネス、法律、およびセキュリティの要件に対応した経験があることも必要です。
 subTitle: この試験では、Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについての理解度を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
@@ -22,12 +25,12 @@ levels:
 - beginner
 skills:
 - Dynamics 365 を理解する (40-45%)
-- クラウドの概念の理解 (25-30%)
+- Cloudの概念の理解 (25-30%)
 - 展開とリリースを理解する (20-25%)
 retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -49,12 +52,13 @@ resources:
 - title: 資格試験のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 特別な設備のリクエスト
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよく寄せられる質問を確認してください。
+  description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

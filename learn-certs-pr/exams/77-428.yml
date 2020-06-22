@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Excel 2013 Expert Part Two
+metadata:
+  title: 'Exam 77-428: Excel 2013 Expert Part Two'
+  description: 'Exam 77-428: Excel 2013 Expert Part Two'
+uid: exam.77-428
+displayName: 77-428
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  このエキスパート レベルの Excel 2013 試験の受験者は、Excel 環境の高度な知識を持ち、Office Professional Plus の Excel 2013 に含まれる機能の適切な使用方法を指導できる方を対象としています。対象者はアプリケーションの高度な機能と特殊な機能の使い方を理解しており、デモンストレーションを実行できる必要があります。
+
+  受験者はさまざまな特殊な目的や状況に応じてプロフェッショナルなスプレッドシートを作成、管理、配布でき、ニーズへの対応と生産性向上のために Excel 環境をカスタマイズする方法を知っている必要があります。ブックの例としては、カスタム ビジネス テンプレート、複数軸の財務チャート、償却表、インベントリ スケジュールなどがあります。受験者の役割としては、会計士、金融アナリスト、データ アナリスト、商業銀行家などが想定されます。
+subTitle: このエキスパート レベルの Excel 2013 試験の受験者は、Excel 環境の高度な知識を持ち、Office Professional Plus の Excel 2013 に含まれる機能の適切な使用方法を指導できる方を対象としています。対象者はアプリケーションの高度な機能と特殊な機能の使い方を理解しており、デモンストレーションを実行できる必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJE
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-428&examname=Excel%202013%20Expert%20Part%20Two&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-428
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- ワークブックを管理および共有する
+- カスタム フォーマットおよびレイアウトを適用する
+- 高度な数式を作成する
+- 高度なチャートや表を作成する
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

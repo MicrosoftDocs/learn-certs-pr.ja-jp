@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft 365 Messaging
+metadata:
+  title: 'Exam MS-203: Microsoft 365 Messaging'
+  description: 'Exam MS-203: Microsoft 365 Messaging'
+uid: exam.ms-203
+displayName: MS-203
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、監視するメッセージング管理者です。
+
+  メッセージング管理者は、清潔さ、メッセージングのインフラストラクチャ、ハイブリッド構成、移行、トランスポート、およびクライアント アクセスについて責任を持ちます。
+
+  メッセージング管理者は、企業のビジネス ニーズに合致する安全なハイブリッド またはクラウドのみの トポロジを、セキュリティ管理者と Microsoft 365 エンタープライズ管理者とともに協調して実装します。
+
+  メッセージング管理者は認証タイプ、ライセンス契約、Microsoft 365 アプリケーションとの統合についての実務知識を持っている必要があります。
+subTitle: 'この試験では、組織の設定およびリソースの管理、メール アーキテクチャの計画と管理、ハイブリッド構成と移行の計画および実装、メッセージング環境の保護などの技術的タスクを遂行する能力を評価します。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 組織の設定およびリソースの管理 (30-35%)
+- メール アーキテクチャの計画と管理 (20-25%)
+- ハイブリッド設定と移行の計画と実装(20-25%)
+- メッセージング環境のセキュリティ強化(20-25%)
+roles:
+- administrator
+products:
+- m365
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md
+

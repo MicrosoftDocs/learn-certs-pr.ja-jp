@@ -1,19 +1,28 @@
 ### YamlMime:Certification
-title: Microsoft Certified Azure Fundamentals
+title: 'Microsoft Certified: Azure Fundamentals'
 metadata:
-  title: Microsoft Certified Azure Fundamentals
-  description: Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
+  title: 'Microsoft Certified: Azure Fundamentals'
+  description: 'Azure Fundamentals は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかを検証します。'
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
-subTitle: Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
+summary: |-
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Azure Fundamentals 認定資格の受験者は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかについての知識が必要です。
+
+  Azure Fundamentals 認定資格は、クラウドの概念、Azure のコア サービス、Azure の価格、SLA、ライフサイクル、およびクラウドのセキュリティ、プライバシー、コンプライアンス、信頼の基礎に関する知識を証明する機会です。
+
+  この認定資格は、クラウドベースのソリューションとサービスを使い始めた人を対象としています。受験者は、Azure のサービス、ワークロード、セキュリティ、プライバシー、価格、サポートだけでなく、クラウドの概念に関する基本的な知識を実証できる必要があります。また、ネットワーキング、ストレージ、コンピューティング、アプリケーション サポート、およびアプリケーション開発の概念についても理解している必要があります。
+
+  Azure Fundamentals は、他の Azure のロール ベースまたは専門分野の認定の準備に使用できますが、それらのいずれの前提条件でもありません。
+subTitle: Azure Fundamentals は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかを検証します。
 levels:
 - beginner
 skills:
-- Cloudの概念を理解
-- コアな Azure サービスを理解
-- セキュリティ、プライバシー、コンプライアンス、信用について理解
-- Azure の料金プランとサポートについて理解
+- クラウドの概念について説明する
+- Azure のコアサービスについて説明する
+- セキュリティ、プライバシー、コンプライアンス、信頼について説明する
+- Azure の価格サービス レベル アグリーメントとライフサイクルについて説明する
 roles:
 - developer
 type: fundamentals
@@ -21,27 +30,29 @@ products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Fundamentals。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
-- title: トレーニングおよび認定ガイド
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

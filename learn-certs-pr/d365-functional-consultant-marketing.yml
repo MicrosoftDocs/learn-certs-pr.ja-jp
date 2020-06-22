@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'> 詳細について学びます</a>。</strong><br/><br/></div>
+  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
 subTitle: Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
@@ -34,12 +34,8 @@ products:
 - dynamics
 - dynamics-marketing
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
-- uid: course.mb-220t01
-- uid: course.mb-220t02
+- uid: course.mb-200t00
+- uid: course.mb-220t00
 paths:
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
@@ -56,7 +52,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
